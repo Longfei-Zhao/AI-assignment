@@ -1,0 +1,43 @@
+John McCarthy (rođen 4. septembra 1927., u Bostonu, Massachusetts; umro 24. oktobra 2011.), je američki računarski naučnik i naučnik kognitivnih nauka, koji je dobio Turingovu Nagradu, 1971. za svoj veliki doprinos polju vještačke inteligencije. On je smislio termin "vještačka inteligencija" u svom prijedlogu iz 1955. za Konferenciju o vještačkoj inteligenciji u Dartmouthu iz 1956., i izumitelj je Lisp programskog jezika.
+Veoma rano je pokazao veliki interes za matematiku, i kao mladić je posuđivao knjige sa Caltecha i učio sam, veoma uspješno. Nakon što je primljen da studira na tom institutu, preskočio je prve dvije godine studija zahvaljujući znanju matematike.
+Diplomirao je matematiku 1948. i nastavio studij na Caltech-u. Doktorirao je matematiku 1951. na Univerzitetu Princeton. Bio je kratko vrijeme predavač na Princeton-u, Dartmouth koledžu i postao stalni profesor na Stanford-u, 1962., sve do odlaska u penziju 2000. Bio je i profesor emeritus.
+1961. je javno sugerisao mogućnost da se računarski resursi koriste i naplaćuju kao voda ili struja. To je postalo moguće tek naknadno, povećanjem mogućnosti računara.
+
+
+== Glavna izdanja ==
+McCarthy, J. 1959. Programs with common sense; In Proceedings of the Teddington Conference on the Mechanization of Thought Processes, 756-91. London: Her Majesty's Stationery Office.
+McCarthy, J. 1960. Recursive functions of symbolic expressions and their computation by machine. Communications of the ACM 3(4):184-195.
+McCarthy, J. 1963a A basis for a mathematical theory of computation. In Computer Programming and formal systems. North-Holland.
+McCarthy, J. 1963b. Situations, actions, and causal laws. Technical report, Stanford University.
+McCarthy, J., and Hayes, P. J. 1969. Some philosophical problems from the standpoint of artificial intelligence. In Meltzer, B., and Michie, D., eds., Machine Intelligence 4. Edinburgh: Edinburgh University Press. 463-502.
+McCarthy, J. 1977. Epistemological problems of artificial intelligence; IJCAI, 1038-1044.
+McCarthy, J. 1980. Circumscription: A form of non-monotonic reasoning. Artificial Intelligence 13(1-2):23-79.
+McCarthy, J. 1986. Applications of circumscription to common sense reasoning. Artificial Intelligence 28(1):89-116.
+McCarthy, J. 1990. Generality in artificial intelligence; Lifschitz, V., ed., Formalizing Common Sense. Ablex. 226-236.
+McCarthy, J. 1993. Notes on formalizing context; IJCAI, 555-562.
+McCarthy, J., and Buvac, S. 1997. Formalizing context: Expanded notes. In Aliseda, A.; van Glabbeek, R.; and Westerstahl, D., eds., Computing Natural Language. Stanford University. Also available as Stanford Technical Note STAN-CS-TN-94-13.
+McCarthy, J. 1998. Elaboration tolerance; Working Papers of the Fourth International Symposium on Logical formalizations of Commonsense Reasoning, Commonsense-1998.
+Costello, T., and McCarthy, J. 1999. Useful counterfactuals. Electronic Transactions on Artificial Intelligence 3(A):51-76
+McCarthy, J. 2002. Actions and other events in situation calculus; "Fensel, D.; Giunchiglia, F.; McGuinness, D.; and Williams, M., eds., Proceedings of KR-2002, 615-628".
+
+
+== Dalje za čitanje ==
+Scientific Temperaments: Three Lives in Contemporary Science by Philip J. Hilts, Simon and Schuster, 1982. Dugi tekstovi o John McCarthy-iju, fizičaru Robert R. Wilson-u i genetičaru Mark Ptashne.
+Machines Who Think: a personal inquiry into the history and prospects of artificial intelligence, urednik Pamela McCorduck, 1979, drugo izdanje 2004.
+The Omni Interviews urednik Pamela Weintraub, New York: Ticknor and Fields, 1984. Kolekcija intervjua iz Omni magazina; sadrži i intervju sa McCarthy-ijem.
+
+
+== Nagrade i priznanja ==
+Turing Award; dodjeljuje je Association for Computing Machinery (1971).
+National Medal of Science (SAD) in Mathematical, Statistical, and Computational Sciences (1991).
+Benjamin Franklin Medal in Computer and Cognitive Science from the Franklin Institute (2003).
+Uveden u IEEE Intelligent Systems' AI's Hall of Fame (2011.), za "značajne doprinose polju vještačke inteligencije i inteligentnih sistema".
+
+
+== Vanjski linkovi ==
+McCarthy-jeva stranica na Stanford-u.
+McCarthy na "The Mathematics Genealogy" Projektu
+intervju
+
+
+== Reference ==

@@ -1,0 +1,75 @@
+Mesterséges intelligenciának (MI vagy AI – az angol Artificial Intelligence-ből) egy gép, program vagy mesterségesen létrehozott tudat által megnyilvánuló intelligenciát nevezzük. A fogalmat legtöbbször a számítógépekkel társítjuk. A köznyelvben több külön jelentésben használják:
+A mesterségesen létrehozott tárgy állandó emberi beavatkozás nélkül képes legyen válaszolni környezeti behatásokra (automatizáltság);
+A mesterségesen létrehozott tárgy képes legyen hasonlóan viselkedni, mint egy természetes intelligenciával rendelkező élőlény, még ha az azonos viselkedés mögött eltérő mechanizmus is húzódik meg (TI szimuláltság – ilyen értelemben beszélhetünk pl. a számítógépes játékok gépirányította karaktereinek „intelligenciájáról”);
+Végül, a mesterségesen létrehozott tárgy képes legyen viselkedését célszerűen és megismételhető módon változtatni (tanulás) – ez utóbbi jelentés az, ami a modern MI-kutatásban előtérbe került, és jelenleg az MI fogalmával legjobban azonosítható.
+Bár a mesterséges intelligencia a tudományos-fantasztikus irodalom terméke, jelenleg a számítógép-tudomány jelentős ágát képviseli, amely intelligens viselkedéssel, gépi tanulással, és a gépek adaptációjával foglalkozik. Így például szabályozással, tervezéssel és ütemezéssel, diagnosztikai és fogyasztói kérdésekre adott válaszadás képességével, kézírás-, beszéd- és arcfelismeréssel. Egy olyan tudományággá vált, amely a valós életbeli problémákra próbál válaszokat adni. A mesterséges intelligencia rendszereket napjainkban elterjedten használják a gazdaság- és orvostudományban, a tervezésben, a katonaságnál, sok elterjedt számítógépes programban és videojátékban.
+
+
+== Megközelítések ==
+A mesterséges intelligencia kutatást két fő iskolára oszthatjuk: a hagyományos MI-re és a számítási intelligenciára (Computational Intelligence, CI).
+A hagyományos MI főleg a jelenleg gépi tanulásként osztályozott módszerekből áll, amelyet a formalizmus és a statisztikai analízis jellemez. A terület ismert még szimbolikus MI, logikai MI, tiszta MI (neat AI), és GOFAI (jó, régimódi mesterséges intelligencia) neveken is. A terület a következő módszereket foglalja magába:
+Szakértői rendszerek, amelyek egy szűk szakmai területen érvényes érvelési szabályokat alkalmaznak következtetések levonásához. A működése során tényekkel, és további tények kikövetkeztetéséhez alkalmas szabályokkal operál. Az egyik legismertebb az 1970-es években létrehozott MYCIN, ami a vér betegségeinek diagnózisához adott segítséget.
+Esetalapú érvelés
+Bayes-statisztikán alapuló hálózatok
+Viselkedésalapú MI: egy moduláris módszer, MI-rendszerek kézi létrehozásához.
+A számítási intelligencia az iterációs (lépésenkénti) fejlődést vagy tanulást helyezi előtérbe (például a paraméter hangolást a kapcsolat alapú rendszerekben). A tanulási folyamat gyakorlati tapasztalatokon alapul és nem szimbolikus, koszos MI (scruffy AI) vagy puha számítási technikai módszereket használ.
+Neuronhálózatok: nagyon erős mintafelismerési képességű rendszerek.
+Fuzzy rendszerek: technikák a kockázat melletti érveléshez, amelyeket elterjedten használnak modern ipari és fogyasztói szabályozási rendszerekben.
+Evolúciós számítási technikák, amely a biológia által inspirált fogalmakat (például populáció, mutáció, a legjobb túlélése) alkalmaz egyes problémák egyre jobb megoldásához. Ezek a módszerek az evolúciós algoritmusok (például genetikus algoritmusok) és a raj-intelligencia (például hangya algoritmus) területekre oszthatók.
+A két fő irányvonal elemeit próbálták ötvözni a hibrid intelligens rendszerekben, amelyekben a szakértői rendszerek következtetési szabályait hozzák létre neuronhálózatok vagy a statisztikai tanulás képzési szabályainak segítségével.
+
+
+== Története ==
+A 17. század elején René Descartes úgy gondolja, hogy az állatok teste nem több egy összetett gépnél. 1642-ben Blaise Pascal létrehozza az első mechanikus, digitális számológépet. A 18. században Charles Babbage és Ada Lovelace programozható számológépeken dolgoznak.
+Az 1910-es években Bertrand Russell és Alfred North Whitehead kiadja a Principia Mathematica-t, ami forradalmasítja a formális logikát. 1943-ban Warren McCulloch és Walter Pitts kiadják Az idegi működés logikai alapjai (A Logical Calculus of the Ideas Immanent in Nervous Activity) című művüket, amellyel megalapítják a neuronhálózatok elméletét.
+
+Az 1950-es évek meglehetősen aktív időszak a mesterséges intelligencia kutatásban. John McCarthy megalkotja a „mesterséges intelligencia” kifejezést az első, a témának szentelt konferencián. Szintén ő fejleszti ki a Lisp programozási nyelvet. Alan Turing megalkotja a Turing-teszt koncepcióját - egy adott gépezet képes-e olyan válaszokat adni, mint egy ember - amit a téma szakértői jobb híján az intelligens viselkedés emulációjára vonatkozó legalapvetőbb gyakorlati jellegű paradigmának tartanak. Joseph Weizenbaum létrehozza az ELIZA-át, egy, a mai MI-rendszerekhez képest roppant primitív, azonban meglepően emberhűnek értékelt benyomások keltésére képes, rogersi pszichoterápiát megvalósító „beszélgető” (chat-elő) robotot (chatterbot).
+Az 1960-as és 1970-es évek alatt Joel Moses bemutatja a szimbolikus érvelés hatékonyságát az első sikeres tudásrendszer-alapú programjában, melyet Macsyma-nak nevez el. Marvin Minsky és Seymour Papert kiadják Perceptrons című művüket, amelyben az egyszerű neuronhálózatok lehetőségeinek határait mutatják be. Alain Colmerauer kifejleszti a Prolog programozási nyelvet. Ted Shortliffe az első szakértői rendszerként is emlegetett munkájában bemutatja a szabály alapú rendszerek jelentőségét a tudásábrázolásban és az orvosi diagnózisban és terápiában alkalmazott következtetésekben. Hans Moravec kifejleszti az első számítógépvezérelt járművet, amely önállóan navigál elszórt akadályokkal berendezett pályákon.
+Az 1980-as években általánosan elterjedtté válik az először 1970-ben Paul John Werbos által leírt neuronhálózatok és a visszaterjesztés (backpropagation) algoritmusok együttes alkalmazása. Az 1990-es években több jelentős eredményt ér el a mesterségesintelligencia-kutatás és több fontos MI alkalmazást mutattak be. 1997-ben a Deep Blue nevű sakkszámítógép hat játszmában legyőzi a történelem legerősebbnek tartott sakknagymesterét, Garri Kaszparovot. A DARPA kijelenti, hogy az első öbölháborúban végrehajtott logisztikai műveletek mesterséges intelligenciai módszerekkel történt támogatása több megtakarítást eredményezett, mint az amerikai kormány addigi összes mesterséges intelligencia kutatásra fordított kiadása.
+
+
+== Művészi ábrázolása ==
+Steven Spielberg mozifilmje: A. I. – Mesterséges értelem
+2001 - Űrodüsszeia - A film híres intelligens számítógépe, HAL 9000 viselkedése a film egyik alapkonfliktusa
+Csillagközi romboló és a Caprica c. spinoff - a sorozat középpontjában a lázadó mesterséges intelligencia (cylonok) és az emberi létezés esetleges konfliktusa áll
+A Disney által készített Tron, avagy a számítógép lázadása c. kultuszfilm;
+A Terminátor c. mozifilm-sorozat és spinoffjai
+Isaac Asimov munkássága
+Mass Effect (1, 2, 3): EDI, gethek, kaszások - akció-szerepjáték
+Ex Machina film (2015)
+
+
+== Jegyzetek ==
+
+
+== Külső hivatkozások ==
+
+
+=== Magyarul ===
+Lap.hu MI linkgyűjtemény
+Ágens Portál
+
+
+=== Angolul ===
+American Association for Artificial Intelligence
+AGIRI – Artificial General Intelligence Research Institute
+European Coordinating Committee for Artificial Intelligence
+German Research Center for Artificial Intelligence, DFKI
+Center for Computational Intelligence, Learning, and Discovery @ Iowa State University
+Artificial Intelligence News
+Association for Uncertainty in Artificial Intelligence
+Singularity Institute for Artificial Intelligence
+The Society for the Study of AI and Simulation of Behaviour
+University of California at Berkeley AI Resources links to 868 AI resource pages
+Loebner Prize website.
+OpenMind CommonSense
+SourceForge Open Source AI projects – 1139 projects
+Ethical and Social Implications of AI en Computerization
+A tutorial on AI programming language LISP
+Marvin Minsky's Homepage
+MIT's Computer Science and Artificial Intelligence Lab
+AI research group at Information Sciences Institute
+What is Artificial Intelligence?
+Artificial and biological intelligence
+Stanford Encyclopedia of Philosophy entry on Logic and Artificial Intelligence
+AI-Junkie: Genetic Algorithm and Neural Network tutorials

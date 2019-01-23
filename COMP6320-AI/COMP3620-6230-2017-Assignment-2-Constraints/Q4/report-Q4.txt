@@ -1,0 +1,7 @@
+4-3: fd12 solved, 2.24s
+6-3: fd12 solved, 3.45s
+12-4: fd12 solved, 26.0s
+21-8: fd12 solved, 117.59s
+
+For every loop, I traverse all two trucks to clean their data and get new output.
+If the cost not become smaller, break.

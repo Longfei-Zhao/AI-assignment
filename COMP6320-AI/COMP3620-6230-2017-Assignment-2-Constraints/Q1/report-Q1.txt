@@ -1,0 +1,4 @@
+4-3: solved, 179ms
+6-3: solved, 97ms
+12-4: solved, 117ms
+21-8: fd12 can't solved, Gecode 323ms

@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5a639f8-dd5e-4321-973e-8dd733b2fd5c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignment_nlp.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/computation_graphs/events.out.tfevents.1506268369.Longfei" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fastText.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/AIXI_2015_Grp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/aixi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-ctw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/aixi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/pyaixi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Lecture/10-10.m4v" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Lab4_nlp_assignment.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhaolongfei.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Main-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Warm-up Exercise-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Warm-up Exercise.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/agent.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/agent.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/cheesemaze.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/cheesemaze.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/environment.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/environment.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/grid.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/grid.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/maze1d.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/maze1d.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/rockpaperscissor.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/rockpaperscissor.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/tictactoe.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/env/tictactoe.hpp" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/cachedDictionary.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/agent.cpp" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Machine Super Intelligence.pdf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Reading/Machine Super Intelligence.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/RL Introduction.pdf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Reading/RL Introduction.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/The context-tree weighting method- Basic properties.pdf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Reading/The context-tree weighting method- Basic properties.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Universal Artificial Intelligence.pdf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Reading/Universal Artificial Intelligence.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/.gitignore" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/.idea/.name" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/.idea/mc-aixi-master.iml" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/.idea/mc-aixi-master.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/.idea/modules.xml" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/CMakeLists.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/CMakeLists.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/Makefile" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/Makefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeCache.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeCCompiler.cmake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeCXXCompiler.cmake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CMakeSystem.cmake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/CMakeCCompilerId.c" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdC/a.out" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/3.8.2/CompilerIdCXX/a.out" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/cmake.check_cache" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/CXX.includecache" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/CXX.includecache" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/DependInfo.cmake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/build.make" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/build.make" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/cmake_clean.cmake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/depend.internal" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/depend.internal" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/depend.make" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/depend.make" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/flags.make" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/flags.make" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/link.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/link.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/progress.make" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/progress.make" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/agent.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/agent.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/coinflip.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/coinflip.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/environment.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/environment.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/extendedtiger.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/extendedtiger.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/kuhnpoker.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/kuhnpoker.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/main.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/main.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/maze.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/maze.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/pacman.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/pacman.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/predict.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/predict.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/rock-paper-scissors.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/rock-paper-scissors.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/search.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/search.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/tictactoe.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/tictactoe.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/tiger.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/tiger.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/util.cpp.o" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/mc_aixi_master.dir/src/util.cpp.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/Makefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/cmake_install.cmake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/mc_aixi_master" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/mc_aixi_master" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/cmake-build-debug/mc_aixi_master.cbp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/cmake-build-debug/mc_aixi_master.cbp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/cheesemaze.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/cheesemaze.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/coinflip.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/coinflip.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/extendedtiger.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/extendedtiger.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/kuhnpoker.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/kuhnpoker.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/maze-4x4.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/maze-4x4.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/pacman.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/pacman.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/rock-paper-scissors.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/rock-paper-scissors.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/tictactoe.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/tictactoe.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/conf/tiger.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/conf/tiger.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/agent_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/agent_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/annotated.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/annotated.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/bc_s.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/bc_s.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classAgent.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classAgent.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classAgent__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classAgent__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classAgent__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classAgent__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classAgent__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classAgent__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCTNode.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCTNode.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCTNode__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCTNode__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCTNode__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCTNode__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCTNode__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCTNode__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCoinFlip.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCoinFlip.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCoinFlip__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCoinFlip__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCoinFlip__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCoinFlip__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCoinFlip__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCoinFlip__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCoinFlip__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCoinFlip__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCoinFlip__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCoinFlip__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classCoinFlip__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classCoinFlip__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classContextTree.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classContextTree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classContextTree__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classContextTree__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classContextTree__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classContextTree__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classContextTree__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classContextTree__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classEnvironment.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classEnvironment.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classEnvironment__inherit__graph.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classEnvironment__inherit__graph.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classEnvironment__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classEnvironment__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classEnvironment__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classEnvironment__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classEnvironment__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classEnvironment__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classExtendedTiger.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classExtendedTiger.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classExtendedTiger__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classExtendedTiger__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classExtendedTiger__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classExtendedTiger__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classExtendedTiger__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classExtendedTiger__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classExtendedTiger__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classExtendedTiger__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classExtendedTiger__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classExtendedTiger__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classExtendedTiger__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classExtendedTiger__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classKuhnPoker.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classKuhnPoker.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classKuhnPoker__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classKuhnPoker__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classKuhnPoker__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classKuhnPoker__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classKuhnPoker__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classKuhnPoker__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classKuhnPoker__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classKuhnPoker__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classKuhnPoker__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classKuhnPoker__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classKuhnPoker__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classKuhnPoker__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classMaze.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classMaze.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classMaze__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classMaze__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classMaze__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classMaze__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classMaze__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classMaze__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classMaze__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classMaze__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classMaze__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classMaze__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classMaze__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classMaze__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classModelUndo.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classModelUndo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classPacMan.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classPacMan.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classPacMan__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classPacMan__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classPacMan__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classPacMan__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classPacMan__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classPacMan__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classPacMan__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classPacMan__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classPacMan__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classPacMan__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classPacMan__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classPacMan__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRelayMaze.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRelayMaze.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRelayMaze__coll__graph.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRelayMaze__coll__graph.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRelayMaze__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRelayMaze__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRelayMaze__inherit__graph.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRelayMaze__inherit__graph.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRelayMaze__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRelayMaze__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRockPaperScissors.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRockPaperScissors.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRockPaperScissors__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRockPaperScissors__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRockPaperScissors__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRockPaperScissors__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRockPaperScissors__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRockPaperScissors__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRockPaperScissors__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRockPaperScissors__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRockPaperScissors__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRockPaperScissors__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classRockPaperScissors__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classRockPaperScissors__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classSearchNode.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classSearchNode.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classSearchNode__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classSearchNode__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classSearchNode__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classSearchNode__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classSearchNode__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classSearchNode__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTicTacToe.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTicTacToe.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTicTacToe__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTicTacToe__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTicTacToe__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTicTacToe__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTicTacToe__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTicTacToe__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTicTacToe__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTicTacToe__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTicTacToe__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTicTacToe__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTicTacToe__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTicTacToe__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTiger.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTiger.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTiger__coll__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTiger__coll__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTiger__coll__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTiger__coll__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTiger__coll__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTiger__coll__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTiger__inherit__graph.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTiger__inherit__graph.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTiger__inherit__graph.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTiger__inherit__graph.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classTiger__inherit__graph.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classTiger__inherit__graph.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/classes.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/classes.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/closed.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/closed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/coinflip_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/coinflip_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/doxygen.css" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/doxygen.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/doxygen.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/doxygen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp__dep__incl.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp__dep__incl.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/environment_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/environment_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/extendedtiger_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/extendedtiger_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/files.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/files.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_0.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_0.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_1.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_10.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_11.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_12.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_13.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_14.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_15.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_16.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_17.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_18.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_19.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_2.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_20.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_20.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_21.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_21.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_22.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_22.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_23.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_23.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_24.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_24.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_25.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_25.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_26.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_26.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_27.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_27.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_28.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_28.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_29.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_29.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_3.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_30.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_30.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_31.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_31.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_32.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_32.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_33.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_33.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_34.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_34.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_35.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_35.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_36.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_36.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_4.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_5.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_6.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_7.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_8.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/form_9.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/form_9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/formula.repository" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/formula.repository" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2blank.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2blank.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2doc.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2doc.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2folderclosed.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2folderclosed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2folderopen.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2folderopen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2lastnode.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2lastnode.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2link.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2link.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2mlastnode.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2mlastnode.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2mnode.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2mnode.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2node.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2node.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2plastnode.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2plastnode.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2pnode.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2pnode.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/ftv2vertline.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/ftv2vertline.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x62.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x62.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x64.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x64.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x65.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x65.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x66.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x66.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x67.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x67.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x68.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x68.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x69.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x69.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x6b.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x6b.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x6c.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x6c.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x6d.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x6d.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x6f.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x6f.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x70.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x72.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x73.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x74.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x74.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x75.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x75.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x76.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x76.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_0x7e.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_0x7e.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_eval.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_eval.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_func.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_func.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_rela.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_rela.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/functions_vars.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/functions_vars.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/globals.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/globals.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/globals_enum.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/globals_enum.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/globals_eval.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/globals_eval.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/globals_func.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/globals_func.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/globals_type.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/globals_type.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/globals_vars.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/globals_vars.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/graph_legend.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/graph_legend.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/graph_legend.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/graph_legend.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/graph_legend.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/graph_legend.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/graph_legend.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/graph_legend.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/hierarchy.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/hierarchy.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/index.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__0.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__0.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__0.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__0.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__0.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__0.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__1.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__1.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__1.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__1.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__1.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__2.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__2.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__2.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__2.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__2.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__3.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__3.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__3.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__3.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__3.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__3.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__3.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__4.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__4.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__4.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__4.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__4.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__5.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__5.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__5.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__5.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherit__graph__5.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherit__graph__5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/inherits.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/inherits.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/installdox" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/installdox" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/kuhnpoker_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/kuhnpoker_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8cpp__incl.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8cpp__incl.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp__dep__incl.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp__dep__incl.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/main_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/main_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/mainpage_8txt.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/mainpage_8txt.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/maze_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/maze_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/nav_f.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/nav_f.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/nav_h.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/nav_h.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/open.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/open.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/pacman_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/pacman_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/predict_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/predict_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8cpp__incl.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8cpp__incl.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8hpp__dep__incl.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8hpp__dep__incl.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8hpp__incl.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8hpp__incl.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/relay-maze_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/relay-maze_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/rock-paper-scissors_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/rock-paper-scissors_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_61.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_62.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_62.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_64.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_64.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_65.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_65.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_66.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_66.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_67.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_67.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_68.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_68.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_69.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_69.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_6b.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_6b.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_6c.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_6c.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_6d.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_6d.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_6e.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_6e.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_6f.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_6f.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_70.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_72.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_73.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_74.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_74.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_75.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_75.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_76.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_76.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_77.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_77.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/all_7e.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/all_7e.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_61.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_65.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_65.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_6b.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_6b.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_6d.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_6d.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_70.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_72.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_73.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/classes_74.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/classes_74.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/close.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/enums_6e.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/enums_6e.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/enums_75.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/enums_75.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/enumvalues_61.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/enumvalues_61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/enumvalues_63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/enumvalues_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/enumvalues_64.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/enumvalues_64.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/enumvalues_70.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/enumvalues_70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_61.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_65.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_65.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_6b.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_6b.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_6d.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_6d.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_70.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_72.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_73.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_74.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_74.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/files_75.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/files_75.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_61.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_62.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_62.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_64.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_64.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_65.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_65.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_66.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_66.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_67.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_67.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_68.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_68.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_69.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_69.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_6b.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_6b.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_6c.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_6c.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_6d.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_6d.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_6f.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_6f.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_70.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_72.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_73.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_74.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_74.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_75.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_75.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_76.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_76.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/functions_7e.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/functions_7e.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/mag_sel.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/mag_sel.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/nomatches.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/nomatches.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/related_63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/related_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/search.css" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/search.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/search.js" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/search.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/search.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/search.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/search_l.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/search_l.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/search_m.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/search_m.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/search_r.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/search_r.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_61.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_69.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_69.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_6f.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_6f.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_70.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_72.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_73.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_76.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_76.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/typedefs_77.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/typedefs_77.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_61.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_61.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_62.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_62.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_63.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_63.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_64.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_64.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_65.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_65.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_6c.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_6c.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_6d.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_6d.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_6f.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_6f.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_70.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_70.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_72.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_72.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_73.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_73.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search/variables_74.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search/variables_74.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/search_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/search_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tab_a.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tab_a.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tab_b.gif" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tab_b.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tab_b.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tab_b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tab_h.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tab_h.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tab_l.gif" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tab_l.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tab_r.gif" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tab_r.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tab_s.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tab_s.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tabs.css" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tabs.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tictactoe_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tictactoe_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tiger_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tiger_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/tree.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/tree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8cpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8cpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8cpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8cpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8cpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8cpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8cpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8cpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp__dep__incl.dot" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp__dep__incl.dot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp__dep__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp__dep__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp__dep__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp__dep__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp__dep__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp__dep__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp__incl.map" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp__incl.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp__incl.md5" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp__incl.md5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp__incl.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp__incl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/html/util_8hpp_source.html" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/html/util_8hpp_source.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/mainpage.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/mainpage.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/mc-aixi-ctw.conf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/mc-aixi-ctw.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/doc/refman.pdf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/doc/refman.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/cheesemaze.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/cheesemaze.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/cheesemaze.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/cheesemaze.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/cheesemaze.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/cheesemaze.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/cheesemaze.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/cheesemaze.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/coinflip.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/coinflip.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/coinflip.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/coinflip.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/coinflip.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/coinflip.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/coinflip.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/coinflip.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/extendedtiger.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/extendedtiger.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/extendedtiger.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/extendedtiger.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/extendedtiger.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/extendedtiger.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/extendedtiger.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/extendedtiger.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/kuhnpoker.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/kuhnpoker.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/kuhnpoker.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/kuhnpoker.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/kuhnpoker.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/kuhnpoker.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/kuhnpoker.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/kuhnpoker.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/maze-4x4.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/maze-4x4.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/maze-4x4.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/maze-4x4.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/maze-4x4.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/maze-4x4.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/maze-4x4.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/maze-4x4.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/pacman.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/pacman.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/pacman.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/pacman.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/pacman.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/pacman.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/pacman.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/pacman.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/rock-paper-scissors.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/rock-paper-scissors.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/rock-paper-scissors.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/rock-paper-scissors.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/rock-paper-scissors.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/rock-paper-scissors.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/rock-paper-scissors.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/rock-paper-scissors.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/tictactoe.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/tictactoe.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/tictactoe.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/tictactoe.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/tictactoe.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/tictactoe.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/tictactoe.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/tictactoe.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/tiger.log/average reward.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/tiger.log/average reward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/tiger.log/model size.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/tiger.log/model size.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/tiger.log/reward (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/tiger.log/reward (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/graph/tiger.log/time per cycle (window size = 100).png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/graph/tiger.log/time per cycle (window size = 100).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/license.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/license.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/cheesemaze.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/cheesemaze.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/coinflip.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/coinflip.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/extendedtiger.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/extendedtiger.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/kuhnpoker.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/kuhnpoker.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/maze-4x4.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/maze-4x4.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/pacman.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/pacman.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/rock-paper-scissors.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/rock-paper-scissors.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/test.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/test.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/tictactoe.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/tictactoe.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/log/tiger.log" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/log/tiger.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/mc-aixi-ctw.sln" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/mc-aixi-ctw.sln" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/mc-aixi-ctw.suo" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/mc-aixi-ctw.suo" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/mc-aixi-ctw.vcxproj" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/mc-aixi-ctw.vcxproj" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/mc-aixi-ctw.vcxproj.filters" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/mc-aixi-ctw.vcxproj.filters" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/mc-aixi-ctw.vcxproj.user" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/mc-aixi-ctw.vcxproj.user" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/readme.txt" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/readme.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/agent.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/agent.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/coinflip.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/coinflip.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/coinflip.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/coinflip.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/environment.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/environment.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/environment.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/environment.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/extendedtiger.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/extendedtiger.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/extendedtiger.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/extendedtiger.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/kuhnpoker.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/kuhnpoker.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/kuhnpoker.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/kuhnpoker.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/main.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/main.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/main.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/main.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/maze.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/maze.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/maze.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/maze.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/pacman.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/pacman.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/pacman.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/pacman.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/predict.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/predict.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/predict.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/predict.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/rock-paper-scissors.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/rock-paper-scissors.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/rock-paper-scissors.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/rock-paper-scissors.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/search.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/search.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/search.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/search.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/tictactoe.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/tictactoe.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/tictactoe.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/tictactoe.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/tiger.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/tiger.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/tiger.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/tiger.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/util.cpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/util.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/src/util.hpp" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/src/util.hpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/tutorial/img/arguments.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/tutorial/img/arguments.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/tutorial/img/properties.png" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/tutorial/img/properties.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/tutorial/tutorial.bib" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/tutorial/tutorial.bib" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/tutorial/tutorial.pdf" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/tutorial/tutorial.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/mc-aixi-master/tutorial/tutorial.tex" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/GoodSolutions/mc-aixi-master/tutorial/tutorial.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/COMP4620-Assignment2" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/COMP4620-Assignment2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Assignment2/mywork/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../COMP8620-Advanced AI/Assignment2/mywork/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Lab4_nlp_assignment$Main.coverage" NAME="Main Coverage Results" MODIFIED="1507305252038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lab4_nlp_assignment" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main-checkpoint.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Main-checkpoint.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/DataAPI.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="711" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab4_nlp_assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab4_nlp_assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab4_nlp_assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab4_nlp_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lab4_nlp_assignment" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a639f8-dd5e-4321-973e-8dd733b2fd5c" name="Default" comment="" />
+      <created>1507304188392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507304188392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="711" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.178125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Main-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Main-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Main-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py" />
+    <entry file="file://$PROJECT_DIR$/DataAPI.py" />
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Main-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py" />
+    <entry file="file://$PROJECT_DIR$/DataAPI.py" />
+    <entry file="file://$PROJECT_DIR$/Main.py" />
+    <entry file="file://$PROJECT_DIR$/DataAPI.py" />
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Main-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py" />
+    <entry file="file://$PROJECT_DIR$/DataAPI.py" />
+  </component>
+</project>

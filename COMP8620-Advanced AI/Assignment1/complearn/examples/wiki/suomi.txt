@@ -1,0 +1,49 @@
+Tekoäly eli keinoäly on tietokone tai tietokoneohjelma, joka kykenee älykkäiksi laskettaviin toimintoihin. Tekoälyn tarkempi määrittely on avoin, koska älykkyyttä itsessään on vaikea määritellä. Tekoäly viittaa myös aihetta tutkivaan tieteen alaan.
+Eräässä merkityksessä tekoälynä pidetään tietokoneohjelmaa, joka suorittaa yleisesti ihmismäistä ajattelua (laskennallinen lähestymistapa). Tämän niin kutsutun yleisen tekoälyn kehittämisen ajankohdasta ei voida antaa juurikaan luotettavia ennusteita.
+Suppeammassa merkityksessä tekoäly on mikä tahansa johonkin älykkääseen toimintoon kykenevä. Tällaisia tekoälyjä on jo käytössä. Käytössä olevia tekoälyn sovelluksia ovat esimerkiksi luonnollisen kielen tuottamiseen ja tunnistamiseen erikoistuneet järjestelmät, asiantuntijajärjestelmät, robottitekniikka ja viihdesovellukset.
+Vaikka äly-termiä käytetään myös yleisesti niin sanotuista tavallisista laitteista kuten älypuhelimista, niitä ei yleensä lasketa mukaan tekoälyn kenttään.
+
+
+== Tekoäly ja tietoisuus ==
+Vahva tekoäly viittaa koneeseen, 1) joka lähestyy inhimillisen älykkyyden tasoa tai ylittää sen, 2) joka voi tehdä tyypillisesti ihmisille kuuluvia asioita, 3) joka voi soveltaa laajoja taustatietoja ja 4) jolla on jonkin tasoinen tietoisuus (konetietoisuus).
+Heikko tekoäly puolestaan viittaa koneeseen, joka käyttää ohjelmistoa joidenkin sellaisten tiettyjen ongelmien tutkimiseen tai ratkaisemiseen, jotka eivät käsitä ihmisen kognitiivisia kykyjä kaikessa laajuudessaan. Päinvastoin kuin vahva tekoäly, heikko tekoäly ei saavuta tietoisuutta, vaan se on lähinnä tietyn sovellusalueen ongelmanratkaisija. Esimerkkinä heikosta tekoälystä ovat tekstin- ja kuvantunnistus, asiantuntijajärjestelmät ja shakkitietokoneet, kuten Deep Blue.
+
+
+== Tekoälytiede ==
+Tekoälyn taustalla on René Descartesin jo 1600-luvulla esittämä idea ajatusten matemaattisesta mallinnettavuudesta.lähde? Varsinaiseksi tieteenalaksi tekoäly eriytyi tietokoneiden kehittymisen myötä 1950-luvulla. Monitieteellinen tekoälytiede yhdistelee keskenään esimerkiksi tekniikkaa, psykologiaa, kognitiotiedettä, filosofiaa ja lääketiedettä.
+
+
+=== Koulukunnat ===
+Tekoälytiede voidaan karkeasti jakaa perinteiseen symbolipainotteiseen tekoälytieteeseen sekä uudempaan, hahmopohjaiseen, laskennallisen älykkyyden suuntaukseen. Perinteisen tekoälytieteen työkaluja ovat muun muassa asiantuntijajärjestelmät, ontologiat ja sääntöpohjainen päättely. Uudemman konnektionistisen suuntauksen tunnetuimpia menetelmiä ovat neuroverkot, sumeat järjestelmät ja evolutionäärinen laskenta.
+
+
+== Turingin testi ==
+
+Tekoälytieteen pioneeri Alan Turing määritteli käytännönläheisen kokeen, jolla voi mitata tietokoneen ihmismäisyyttä. Testin ajatus on, että tietokone on älykäs, jos sen vastauksia ei pysty erottamaan ihmisen vastauksista. Yksikään tietokoneohjelma ei ole läpäissyt tätä testiä valvotuissa olosuhteissa, vaikka vuodesta 1990 lähtien on järjestetty erityinen kilpailu Loebnerin-palkinnosta, missä Turingin testin läpäisseen laitteen kehittäjälle luvataan 100 000 dollaria.
+Turingin testiä pidetään siltä osin ongelmallisena, että siinä pärjäävät hyvin sellaiset ohjelmat, jotka pyrkivät huijaamaan ihmistuomareita. Paremmaksi tekoälytestiksi on ehdotettu Lovelacen testiä (engl. Lovelace test), jossa ajattelun kriteeri on se, ettei ulkopuolinen tarkkailija pysty tulostusten perusteella sanomaan, miten olento on päätynyt tuottamaan juuri ne.
+
+
+== Tekoäly ja ihminen ==
+Uhkakuvaksi on nostettu, että tekoäly nopeuttaa teknologista ja sosiaalista muutosta niin paljon, etteivät ihmiset ehdi sopeutua siihen. Tällaista kehitystä kutsutaan singulariteetiksi. Singulariteetti voidaan myös ymmärtää hetkeksi, jolloin kone tekee itseään paremman koneen. Biologiseen ja kulttuuriseen muutokseen verrattuna tilanne voi muuttua äkisti.
+Ylivertainen tekoäly saattaa esimerkiksi päihittää finanssimarkkinat, ihmistutkijat, ihmisjohtajat ja pahimmillaan kykenee synnyttämään aseita, joita ihminen ei pysty edes ymmärtämään.
+Hallitsemattoman tekoälyn vaaroista ovat varoittaneet muun muassa Microsoftin perustaja Bill Gates, fyysikko Stephen Hawking ja miljardöörikeksijä Elon Musk. Jo nyt on nähtävissäkenen mukaan? joitakin merkkejä tekoälyn tavallista elämää mullistavista ilmiöistä.
+Nykyisin kaupallista, hallinnollista ynnä muuta merkitystä on yleensä sillä, kuka hallitsee tekoälyä. Tulevaisuudessa ongelmaksi voi muodostua se, pystytäänkö tekoälyä enää hallitsemaan ollenkaan.
+
+
+== Katso myös ==
+Hahmontunnistus
+Koneoppiminen
+Konetietoisuus
+
+
+== Lähteet ==
+
+
+== Kirjallisuutta ==
+Hyvönen, Eero & Karanta, Ilkka & Syrjänen, Markku (toim.): Tekoälyn ensyklopedia. Helsinki: Gaudeamus: Suomen tekoälyseura, 1993. ISBN 951-662-559-2.
+Niiniluoto, Ilkka: Maailma, minä ja kulttuuri: Emergentin materialismin näkökulma. Helsinki: Otava, 1990. ISBN 951-1-11070-5.
+
+
+== Aiheesta muualla ==
+Suomen Tekoälyseura
+Jaakko Suominen: Tietokonepelko teknologisen katselutavan ilmentymänä (pro gradu -tutkielma)

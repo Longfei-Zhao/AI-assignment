@@ -1,0 +1,38 @@
+Diafensuach (Depth-First Search) is in da Informatik a Vaforn zum Suachn vo am Knotn in am Graphn. Se zejd zua dena uninformiatn Suachalgorithmen. A Vabessarung vo da Diafnsuach is de iterative Diafnsuach.
+
+
+== Beispui ==
+Fia an foigendn Graphn:
+
+A Diafnsuach fongt ba A o. Ognumma dass de linkn Kantn in am Graphn voa dena rechtn Kantn gwejd wead und ognumma de Suach eainnat voahea besuachte Knotn und dadat se ned wiedahoit besuacha (es is jo a kloana Graph), dann dadatn de Knotn in da foigenden Reihnfoig besuacht wean: A, B, D, F, E, C, G.
+Wann de gleiche Suach duachfiat wead, ohne dass de voahea besuachtn Knoten eainnat wean, fiat des zua foigendn Besuachsfrequenz A, B, D, F, E, A, B, D, F, E, usw. und bleibt ewig ind da A, B, D, F, E Schleifn gfanga und eareicht nia C oda G.
+Iterative Diafnsuach vameidet de Schleifn und dadat de nextn Knotn vo da foigendn Diafnebene earreichn, wann ma onimmt dass vo links noch rechts voaganga wead:
+0: A
+1: A (wiadahoit), B, C, E
+(Omeakung: A iterative Diafnsuach häd etzt C worgnumma, de konventionelle Diafnsuach owa ned)
+2: A, B, D, F, C, G, E, F
+(Omeakung: C wead worgnumma, owa. E wead iwa an ondan Weg worgnumma und F wead zwoamoi besuacht.)
+3: A, B, D, F, E, C, G, E, F, B
+Fian an Beispui-Graphn guit: Je meara Diafn dazuakimmt, wean de zwoa Kroas "ABFE" and "AEFB" oanfoch länga bevoa da da Algorithmaus afgibt und an ondan Zweig vasuacht.
+
+
+== Owendung ==
+De Diafnsuach is indirekt an vuin komplexan Algorithmen fia Graphn beteiligt. A Beispui is des Affindn vo oin storkn Zammahangskomponentn vo am Graphn.
+
+
+== Schau aaa ==
+Beschränkte Diafnsuach
+Broadnsuach
+iterative Diafnsuach
+Diafnsuach ba gewichtetn Graphn
+
+
+== Literatua ==
+Thomas H. Cormen, Charles Leiserson, Ronald L. Rivest, Clifford Stein: Introduction to Algorithms, MIT Press, 2nd edition 2001, ISBN 0-262-53196-8
+Stuart Russell, Peter Norvig: Artificial Intelligence: A Modern Approach, 2. Auflog, 2002, Prentice Hall.
+
+
+== Im Netz ==
+
+Schritt-fia-Schritt-Analyse zua Diafensuach und a scheens Java-Applet
+Eaklearung vo da Diafnsuach am Beispui vom Labyrinth

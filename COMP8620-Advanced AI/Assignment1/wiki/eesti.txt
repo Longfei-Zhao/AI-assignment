@@ -1,0 +1,74 @@
+AIML (lühend ingliskeelsetest sõnadest Artificial Intelligence Markup Language) on tehisintellekti märgistuskeel, mis on loodud loomulikus keeles suhtlevate vestlusagentide loomiseks. See on XML-i dialekt, mille on loonud Richard Wallace.
+
+
+== AIML-i osised ==
+
+
+=== Kategooria ===
+Kategooriad (ingl k category) on AIML-i teadmiste baasühikud. Iga kategooria koosneb sisendiks olevast küsimusest ja väljundiks olevast vastusest. Teisiti öeldes, kategooriad koosnevad vähemalt kahest elemendist: mustrist (ingl k pattern) ja mallist (ingl k template). Järgnevalt on üks lihtne näide kategooria ülesehituse kohta:
+
+<category>
+<pattern>MIS ON SINU NIMI</pattern>
+<template>Minu nimi on Jaan.</template>
+
+</category>
+
+Kui juturoboti või DS-i programm sisaldab sellist kategooriat, siis (arvuti)kasutaja küsimusele "Mis on sinu nimi?" vastatakse lausega "Minu nimi on Jaan."
+
+
+=== Muster ===
+Muster on sõne, mis klapib ühe või mitme (arvuti)kasutaja sisendiga. Mustrid ignoreerivad lauselõpumärke, kirjavahemärke ega tee vahet suurtel ja väikestel tähtedel.
+Muster võib koosneda ainult sõnadest, näiteks:
+
+<pattern>MIS ON SINU NIMI</pattern>
+
+Selline muster on vastavuses ainult ühele kasutaja küsimusele, milleks on "Mis on sinu nimi?". Ent muster võib sisaldada ka ühte või enamat metamärki, näiteks muster
+
+<pattern>MIS ON SINU * </pattern>
+
+on vastavuses sisenditega nagu "Mis on sinu nimi?", "Mis on sinu kinganumber?", "Mis on sinu lemmikvärv?", "Mis on sinu elueesmärk?" jne.
+
+
+=== Mall ===
+Mall on sisendile programmi (juturoboti, DS-i vms) vastuseks antav väljund. Mall kajastab kirjavahemärke, lauselõpumärke ning eristab suuri ja väikseid tähti. Mall võib koosneda ainult sõnadest:
+
+<template>Minu nimi on Jaan.</template>
+
+Mall võib sisaldada ka muutujaid, näiteks
+
+<pattern>OLE *</pattern>
+<template>Olgu, ma proovin olla <person/></template>
+
+korral saab kasutaja lausung "ole tubli" vastuseks "Olgu, ma proovin olla tubli" ja lausung "ole kiirem" vastuseks "Olgu, ma proovin olla kiirem".
+Mallid võivad sisaldada ka teisi mustreid. Sel juhul kasutatakse elementi srai.
+
+<category>
+<pattern>TERE</pattern>
+<template>Tere!</template>
+
+</category>
+<category>
+<pattern>HEI</pattern>
+<template><srai>TERE</srai></template>
+
+</category>
+<category>
+<pattern>HEI * </pattern>
+<template><srai>TERE</srai></template>
+
+</category>
+
+Esitatud näites saab nii kasutaja "tere", "hei" kui "hei arvuti" vastuseks "Tere!", sest srai viitab mustrile TERE, mille vastuseks on märgitud "Tere!".
+
+
+== Kriitika ==
+Kuna AIML on lihtne märgistuskeel, on see sobilik algajatele DS-ide ja juturobotite loojatele. AIML-i kriitikud leiavad, et see märgistuskeel ei ole hea keerulisemate süsteemide loomiseks. Siiski, AIML-is on loodud mitmed tipp-dialoogsüsteemid. Näiteks juturobot A.L.I.C.E. sai 2010. aastal Loebneri auhinna võistlusel teise koha ja 2013. aastal sai juturobot Mitsuku Loebneri auhinna võistlusel esimese koha ja 2012. aastal võistlusel Chatterbox Challenge teise koha, olles ühtlasi kõige populaarsem süsteem.
+
+
+== Viited ==
+
+
+== Välislingid ==
+Pandorabots - A Multilingual Chatbot Hosting Service
+AIML 1.0.1 (A.L.I.C.E. AI Foundation)
+The Slashdot Interview

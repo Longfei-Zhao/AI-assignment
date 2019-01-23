@@ -1,0 +1,4 @@
+4-3: fd12 solved, 113ms
+6-3: fd12 solved, 86ms
+12-4: fd12 solved, 115ms
+21-8: fd12 solved, 744ms

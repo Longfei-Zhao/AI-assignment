@@ -1,0 +1,13 @@
+01 email06 0 1.7454333 Longfei
+04 email03 0 3.254245 Longfei
+05 email02 0 3.4547465 Longfei
+06 email09 0 2.1448333 Longfei
+06 email10 1 1.2891027 Longfei
+06 email14 2 1.2891027 Longfei
+06 email01 3 0.0666296 Longfei
+06 email03 4 0.066604145 Longfei
+06 email05 5 0.066604145 Longfei
+06 email08 6 0.066604145 Longfei
+06 email02 7 0.060786366 Longfei
+06 email06 8 0.060786366 Longfei
+06 email07 9 0.060786366 Longfei

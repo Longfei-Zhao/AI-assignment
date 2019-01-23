@@ -1,0 +1,10 @@
+Skynsamur gjörandi er hugtak í heimspeki og gervigreindarrannsóknum notað yfir aðila sem framkvæmir þá aðgerð sem hann telur líklegasta til árangurs að gefnum þeim forsendum (þekkingu) sem hann hefur um umhverfið.
+Aðgerðina byggir skynsamur gjörandi á:
+Undangenginni reynslu.
+Upplýsingum um umhverfið.
+Aðgerðum sem gjörandinn þekkir og eru aðgengilegar.
+Áætluðum kostum og líkindi á árangri aðgerðarinnar.
+
+
+== Bækur ==
+Artificial Intelligence: A Modern Approach (2nd Edition) by Stuart J. Russell & Peter Norvig, (2002) Prentice Hall, ISBN 0-13-790395-2

@@ -1,0 +1,71 @@
+Kredo-disigo, aŭ Sumo-Oblo-Mesaĝado estas algoritmo por fari rezonadon per grafemodelo, ekzemple Bejesa Reto kaj Markova Reto. Ĝi komputas kondiĉan probablon de ne-observataj vertikoj per aliaj observataj vertikoj. Oni ofte uzas Kredo-disigon por artefarita inteligenteco kaj teorio pri informo. Ĝi montras sukceson por aplikado kiel maldensa pareco-kodo, turbo-kodo, libera energio-proksimado, kaj verigebleco-problemo.
+La algoritmon unue proponis Judea Pearl en 1982 por arboj. Sekve li ĝeneraligis la algoritmon al plurradikaj arboj. Ĝi sinpruvis kiel sukcesa proksimuma algoritmo por ĝenerala grafeo.
+X={Xi} estu aro da diskretaj hazardaj variabloj kun kuna masa funkcio p, la randa distribuo de unu Xi estas simple la sumo de p super ĉiuj aliaj variabloj.
+
+  
+    
+      
+        
+          p
+          
+            
+              X
+              
+                i
+              
+            
+          
+        
+        (
+        
+          x
+          
+            i
+          
+        
+        )
+        =
+        
+          ∑
+          
+            
+              
+                x
+              
+              ′
+            
+            :
+            
+              x
+              
+                i
+              
+              ′
+            
+            <>
+            
+              x
+              
+                i
+              
+            
+          
+        
+        p
+        (
+        
+          
+            x
+          
+          ′
+        
+        )
+        .
+      
+    
+    {\displaystyle p_{X_{i}}(x_{i})=\sum _{\mathbf {x} ':x'_{i}<>x_{i}}p(\mathbf {x} ').}
+  
+Tamen, ĉi tio rapide iĝas nekomputebla por multe da variabloj. Por 100 duumaj hazardaj variabloj necesas sumi 299 ≈ 6.338 × 1029 eblaj valoroj. Kredo-disigo ebligas tre rapidan komputadon de randa probablo per utiligi la arban strukturon.
+
+
+== Referencoj ==
