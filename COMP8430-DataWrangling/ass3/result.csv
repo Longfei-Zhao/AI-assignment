@@ -1,0 +1,580 @@
+,name,apple_name,apple_rating_count,apple_rating,google_name,google_rating,google_rating_count
+0,Evernote,Evernote - stay organized,161065,4.0,"Evernote – Organizer, Planner for Notes & Memos",4.6,1488289
+1,eBay,"eBay: Best App to Buy, Sell, Save! Online Shopping",262241,4.0,eBay: Buy & Sell this Summer - Discover Deals Now!,4.4,2788460
+2,Bible,Bible,985920,4.5,Bible,4.7,2440695
+3,PayPal,PayPal - Send and request money safely,119487,4.0,PayPal,4.3,659760
+4,Google,Google – Search made just for mobile,479440,3.5,Google,4.4,8021623
+5,Facebook,Facebook,2974676,3.5,Facebook,4.1,78128208
+6,Yelp,"Yelp - Nearby Restaurants, Shopping & Services",223885,4.0,"Yelp: Food, Shopping, Services Nearby",4.3,397422
+7,Yahoo Sports,"Yahoo Sports - Teams, Scores, News & Highlights",137951,4.0,"Yahoo Sports - scores, stats, news, & highlights",4.5,32386
+8,LinkedIn,LinkedIn,71856,3.5,LinkedIn,4.2,1225367
+9,Google Earth,Google Earth,446185,3.5,Google Earth,4.3,2339098
+10,PAC-MAN,PAC-MAN,508808,3.0,PAC-MAN,4.2,685450
+11,The Weather Channel,"The Weather Channel: Forecast, Radar & Alerts",495626,3.5,The Weather Channel: Rain Forecast & Storm Alerts,4.4,1558437
+12,OpenTable,OpenTable - Restaurant Reservations,113936,4.5,OpenTable: Restaurants Near Me,4.6,90242
+13,Lose It!,Lose It! – Weight Loss Program and Calorie Counter,373835,4.0,Lose It! - Calorie Counter,4.4,69395
+14,Target,Target,108131,3.0,Target - now with Cartwheel,4.1,68406
+15,Allrecipes Dinner Spinner,Allrecipes Dinner Spinner,109349,3.5,Allrecipes Dinner Spinner,4.5,61881
+16,AccuWeather,AccuWeather - Weather for Life,144214,3.5,AccuWeather: Daily Forecast & Live Weather Reports,4.4,2052407
+17,Mint,"Mint: Personal Finance, Budget, Bills & Money",232940,4.0,"Mint: Budget, Bills, Finance",4.3,129305
+18,ABC News,ABC News - US & World News + Live Video,48407,3.0,ABC News - US & World News,4.0,18976
+19,Speedtest by Ookla,Speedtest by Ookla,65016,3.5,Speedtest by Ookla,4.4,1028794
+20,Citi Mobile®,Citi Mobile®,48822,3.5,Citi Mobile®,4.0,78306
+21,Tumblr,Tumblr,334293,4.0,Tumblr,4.4,2953886
+22,HuffPost,"HuffPost - News, Politics & Entertainment",29107,3.0,HuffPost - News,4.2,78154
+23,CBS Sports App,"CBS Sports App - Sports Scores, News, Stats, Watch",59639,3.0,"CBS Sports App - Scores, News, Stats & Watch Live",4.3,91035
+24,DIRECTV,DIRECTV,81006,3.5,DIRECTV,4.1,235486
+25,Doodle Jump,Doodle Jump,395261,4.5,Doodle Jump,4.3,1083571
+26,Fandango Movies,Fandango Movies - Times + Tickets,291787,4.0,Fandango Movies - Times + Tickets,4.6,243747
+27,myAT&T,myAT&T,108507,3.0,myAT&T,3.7,80816
+28,Shutterfly,"Shutterfly: Prints, Photo Books, Cards Made Easy",51427,4.0,"Shutterfly: Free Prints, Photo Books, Cards, Gifts",4.6,98717
+29,Indeed Job Search,Indeed Job Search,38681,4.0,Indeed Job Search,4.3,674730
+30,WhatsApp Messenger,WhatsApp Messenger,287589,4.5,WhatsApp Messenger,4.4,69109672
+31,Wells Fargo Mobile,Wells Fargo Mobile,43064,3.0,Wells Fargo Mobile,4.4,250719
+32,AutoScout24,AutoScout24 - mobile used & new car market,220,4.5,AutoScout24 - used car finder,4.4,186648
+33,USAA Mobile,USAA Mobile,19946,4.0,USAA Mobile,4.5,100997
+34,TextNow,TextNow - Unlimited Text + Calls,164963,3.5,TextNow - free text + calls,4.4,441189
+35,Best Buy,Best Buy,80424,4.0,Best Buy,4.4,186116
+36,Sky News,Sky News,118,3.0,Sky News,4.0,30287
+37,ESPN,"ESPN: Get scores, news, alerts & watch live sports",290996,3.5,ESPN,4.2,521081
+38,NBC News,NBC News,32881,3.5,NBC News,4.1,63020
+39,Grindr,"Grindr - Gay and same sex guys chat, meet and date",23201,2.5,Grindr - Gay chat,3.6,284795
+40,Waze,"Waze - GPS Navigation, Maps & Real-time Traffic",345046,4.5,"Waze - GPS, Maps, Traffic Alerts & Live Navigation",4.6,7231017
+41,Cartoon Wars,Cartoon Wars,35930,3.5,Cartoon Wars: Blade,4.4,165656
+42,Epson iPrint,Epson iPrint,2838,3.0,Epson iPrint,4.1,108169
+43,Mad Libs,Mad Libs,117889,3.0,Mad Libs,4.0,8126
+44,Dropbox,Dropbox,49578,3.5,Dropbox,4.4,1860844
+45,Yahoo Fantasy Sports,Yahoo Fantasy Sports,190670,3.5,Yahoo Fantasy Sports - #1 Rated Fantasy App,4.2,277939
+46,Geocaching®,Geocaching®,12811,3.5,Geocaching®,4.1,62616
+47,Starbucks,Starbucks,303856,4.5,Starbucks,4.5,455496
+48,Alipay,Alipay - Makes Life Easy,1926,3.0,Alipay,3.4,42497
+49,Twitter,Twitter,354058,3.5,Twitter,4.3,11657972
+50,CBS News,CBS News - Watch Free Live Breaking News,11691,3.5,CBS News,4.3,23641
+51,NBA,NBA,43682,3.5,NBA,4.4,108318
+52,Harry Potter,Harry Potter: Spells,17023,4.0,Harry Potter: Hogwarts Mystery,4.4,1107197
+53,Call of Duty,Call of Duty: Zombies,63943,4.0,Call of Duty:Black Ops Zombies,4.2,13004
+54,Call of Duty,Call of Duty: Zombies HD,5853,3.5,Call of Duty:Black Ops Zombies,4.2,13004
+55,Call of Duty,Call of Duty: Black Ops Zombies,116601,4.5,Call of Duty:Black Ops Zombies,4.2,13004
+56,Walmart,"Walmart: Free 2-Day Shipping,* Easy Store Shopping",70286,3.0,Walmart,4.4,441473
+57,AirWatch Agent,AirWatch Agent,1150,2.5,AirWatch Agent,3.1,20973
+58,Redbox,Redbox,60236,3.0,Redbox,4.1,115033
+59,IMDb Movies & TV,IMDb Movies & TV - Trailers and Showtimes,183425,4.5,IMDb Movies & TV,4.2,501498
+60,DB Navigator,DB Navigator,512,3.5,DB Navigator,4.0,119685
+61,Grand Theft Auto,Grand Theft Auto: Chinatown Wars,15142,4.0,Grand Theft Auto: San Andreas,4.4,348962
+62,Grand Theft Auto,Grand Theft Auto: Vice City,20113,4.0,Grand Theft Auto: San Andreas,4.4,348962
+63,Grand Theft Auto,Grand Theft Auto: San Andreas,32533,4.0,Grand Theft Auto: San Andreas,4.4,348962
+64,Grand Theft Auto,Grand Theft Auto: Liberty City Stories,1460,3.5,Grand Theft Auto: San Andreas,4.4,348962
+65,Southwest Airlines,Southwest Airlines,30552,3.0,Southwest Airlines,3.9,24781
+66,Star Chart,Star Chart,13482,4.5,Star Chart,4.3,128808
+67,Pocket Yoga,Pocket Yoga,4475,4.5,Pocket Yoga,4.4,2107
+68,Badoo,"Badoo - Meet New People, Chat, Socialize.",34428,4.5,Badoo - Free Chat & Dating App,4.3,3781467
+69,The Washington Post Classic,The Washington Post Classic,18572,4.5,The Washington Post Classic,4.5,23158
+70,F-Sim Space Shuttle,F-Sim Space Shuttle,6403,4.5,F-Sim Space Shuttle,4.4,5427
+71,Groupon,"Groupon - Deals, Coupons & Discount Shopping App",417779,4.5,"Groupon - Shop Deals, Discounts & Coupons",4.6,1371082
+72,Univision Deportes,"Univision Deportes: Liga MX, MLS, Fútbol En Vivo",16683,3.5,"Univision Deportes: Liga MX, MLS, Fútbol Live",4.2,75545
+73,Univision Deportes,"Univision Deportes: Liga MX, MLS, Fútbol En Vivo",16683,3.5,"Univision Deportes: Liga MX, MLS, Fútbol En Vivo",4.2,75566
+74,Kik,Kik,260965,4.0,Kik,4.3,2451136
+75,Solitaire,Solitaire,679055,4.5,Solitaire: Decked Out Ad Free,4.9,37302
+76,Amex Mobile,Amex Mobile,11421,4.0,Amex Mobile,4.3,24729
+77,Fruit Ninja Classic,Fruit Ninja Classic,698516,4.5,Fruit Ninja Classic,4.3,85468
+78,Netflix,Netflix,308844,3.5,Netflix,4.4,5453997
+79,ABC,ABC – Watch Live TV & Stream Full Episodes,78890,3.0,ABC – Live TV & Full Episodes,3.3,50428
+80,StubHub,"StubHub - Tickets to Sports, Concerts and Theatre",9011,3.5,"StubHub - Tickets to Sports, Concerts & Events",4.0,26089
+81,Fox News,Fox News,132703,4.0,"Fox News – Breaking News, Live Video & News Alerts",4.5,249919
+82,Uber,Uber,49466,3.0,Uber,4.2,4921866
+83,WEB.DE Mail,WEB.DE Mail,168,4.0,WEB.DE Mail,4.3,226541
+84,Chase Mobile,Chase Mobile,34322,4.5,Chase Mobile,4.6,1374549
+85,Tango,"Tango - Free Video Call, Voice and Chat",75412,4.5,Tango - Live Video Broadcast,4.3,3806669
+86,MeetMe,MeetMe - Chat and Meet New People,97072,4.0,MeetMe: Chat & Meet New People,4.2,1259723
+87,TED,TED,5782,3.5,TED,4.6,181961
+88,Carnivores,Carnivores: Dinosaur Hunter Pro,18306,4.0,Carnivores: Dinosaur Hunter,4.2,62636
+89,Carnivores,Carnivores: Ice Age Pro,13258,4.5,Carnivores: Dinosaur Hunter,4.2,62636
+90,Hulu,Hulu: Watch TV Shows & Stream the Latest Movies,56170,2.0,"Hulu: Stream TV, Movies & more",4.0,319777
+91,Edmodo,Edmodo,7197,3.5,Edmodo,4.1,200214
+92,Onefootball,Onefootball - Soccer Scores & Live News,3194,4.5,Onefootball - Soccer Scores,4.7,911995
+93,Sam's Club,Sam's Club: Wholesale Shopping & Bulk Buy Deals,8149,4.0,Sam's Club: Wholesale Shopping & Instant Savings,4.3,45362
+94,Viber Messenger,Viber Messenger – Text & Call,164249,4.5,Viber Messenger,4.3,11335481
+95,Lotto Results,Lotto Results - Mega Millions Powerball Lottery,794,4.0,Lotto Results - Mega Millions Powerball Lottery US,4.5,14221
+96,Muslim Pro,"Muslim Pro: Ramadan 2017 Prayer Times, Azan, Quran",18418,4.5,"Muslim Pro - Prayer Times, Azan, Quran & Qibla",4.7,1133393
+97,Fly Delta,Fly Delta,8094,3.0,Fly Delta,3.7,27560
+98,NFL,NFL,27317,2.5,NFL,4.1,459797
+99,Instagram,Instagram,2161558,4.5,Instagram,4.5,66509917
+100,Paprika Recipe Manager,Paprika Recipe Manager,1755,4.5,Paprika Recipe Manager,4.1,1268
+101,GroupMe,GroupMe,28260,4.5,GroupMe,4.5,330761
+102,Zappos,"Zappos: shop shoes & clothes, fast free shipping",103655,5.0,Zappos – Shoe shopping made simple,4.5,44588
+103,myChevrolet,myChevrolet,1083,2.0,myChevrolet,3.5,6747
+104,Text Free,Text Free: Free Texting + Calling + MMS,100477,4.0,Text Free: WiFi Calling App,4.2,83474
+105,Airbnb,Airbnb,22302,4.0,Airbnb,4.4,359560
+106,NBA JAM by EA SPORTS™,NBA JAM by EA SPORTS™,21648,4.0,NBA JAM by EA SPORTS™,4.3,56444
+107,Fruit Ninja®,Fruit Ninja®,327025,4.5,Fruit Ninja®,4.3,5091448
+108,Cartoon Network App,Cartoon Network App – Teen Titans Go! And more!,15984,3.0,Cartoon Network App,4.0,119173
+109,Puffin Browser Pro,Puffin Browser Pro,7565,3.5,Puffin Browser Pro,4.0,18247
+110,GasBuddy,GasBuddy,145549,4.5,GasBuddy: Find Cheap Gas,4.6,751551
+111,HotelTonight,HotelTonight - Great Deals on Last Minute Hotels,32341,4.5,HotelTonight: Book amazing deals at great hotels,4.4,57556
+112,The Guardian,The Guardian,8176,5.0,The Guardian,4.7,247992
+113,Mad Skills Motocross,Mad Skills Motocross,9341,4.5,Mad Skills Motocross,4.0,32522
+114,Microsoft OneNote,Microsoft OneNote,39638,4.5,Microsoft OneNote,4.4,480638
+115,GolfNow,"GolfNow – Book Tee Times, Golf GPS, Scorecard",7535,4.0,"GolfNow: Tee Time Deals at Golf Courses, Golf GPS",4.5,26102
+116,WeChat,WeChat,34584,4.5,WeChat,4.2,5387631
+117,Google Translate,Google Translate,26786,3.5,Google Translate,4.4,5741684
+118,Meitu,Meitu,6478,5.0,"Meitu – Beauty Cam, Easy Photo Editor",4.5,462702
+119,GMX Mail,GMX Mail,102,4.5,GMX Mail,4.3,258556
+120,Bleacher Report,"Bleacher Report: Sports news, scores, & highlights",16979,4.5,"Bleacher Report: sports news, scores, & highlights",4.4,122280
+121,Temple Run,Temple Run,1724546,4.5,Temple Run,4.3,4000433
+122,Temple Run,Temple Run: Brave,27593,4.0,Temple Run,4.3,4000433
+123,Temple Run,Temple Run: Oz,14912,4.0,Temple Run,4.3,4000433
+124,Angry Birds Rio,Angry Birds Rio,170843,4.5,Angry Birds Rio,4.4,2610328
+125,My Horse,My Horse,293857,4.5,My Horse,4.5,1333338
+126,MTV,MTV,5987,2.5,MTV,3.8,35279
+127,Gmail,"Gmail - email by Google: secure, fast & organized",135962,4.0,Gmail,4.3,4604324
+128,NCAA March Madness Live,NCAA March Madness Live - Men's College Basketball,13572,3.0,NCAA March Madness Live,4.1,34123
+129,WatchESPN,WatchESPN,159735,4.0,WatchESPN,4.1,288809
+130,Pinterest,Pinterest,1061624,4.5,Pinterest,4.6,4300936
+131,iFunny ,iFunny :),98344,3.5,iFunny :),4.4,503757
+132,HBO GO,HBO GO,26278,3.0,HBO GO: Stream with TV Package,3.8,87734
+133,ROBLOX,ROBLOX,183621,4.5,ROBLOX,4.5,4443407
+134,Nyan Cat,Nyan Cat: Lost In Space,76392,4.5,Nyan Cat: Lost In Space,4.5,371318
+135,PBS KIDS Video,PBS KIDS Video,8651,3.5,PBS KIDS Video,4.2,36214
+136,Domino's Pizza USA,Domino's Pizza USA,258624,5.0,Domino's Pizza USA,4.7,1032935
+137,Snapseed,Snapseed,8683,4.0,Snapseed,4.5,823109
+138,Camera360,"Camera360 - Selfie Filter Camera, Photo Editor",16729,4.5,Camera360: Selfie Photo Editor with Funny Sticker,4.3,4865132
+139,LINE,LINE,11437,3.5,LINE: Free Calls & Messages,4.2,10790092
+140,LINE,LINE: Disney Tsum Tsum,65155,4.5,LINE: Free Calls & Messages,4.2,10790092
+141,ADP Mobile Solutions,ADP Mobile Solutions,8324,4.0,ADP Mobile Solutions,4.3,85185
+142,LOVOO,LOVOO - Dating Chat,1985,4.5,LOVOO,4.0,852455
+143,Snapchat,Snapchat,323905,2.5,Snapchat,4.0,17000166
+144,Truecaller,Truecaller - Spam Identification & Block,27791,4.5,"Truecaller: Caller ID, SMS spam blocking & Dialer",4.5,7820775
+145,Pic Collage,Pic Collage - Picture Editor & Photo Collage Maker,123433,5.0,Pic Collage - Photo Editor,4.6,1451000
+146,Where's My Water?,Where's My Water?,131656,4.5,Where's My Water?,4.7,188740
+147,United Airlines,United Airlines,5748,2.5,United Airlines,3.5,30447
+148,ibis Paint X,ibis Paint X - speed painting,1933,4.5,ibis Paint X,4.6,224399
+149,Messenger,Messenger,351466,3.0,Messenger – Text and Video Chat for Free,4.0,56642847
+150,Messenger,Messenger,351466,3.0,Messenger,4.1,68025
+151,Jetpack Joyride,Jetpack Joyride,405647,4.5,Jetpack Joyride,4.4,4637439
+152,ASOS,ASOS,9725,5.0,ASOS,4.7,181823
+153,Twitch,Twitch,109549,4.5,Twitch: Livestream Multiplayer Games & Esports,4.6,2133047
+154,Trello,Trello,2793,4.5,Trello,4.5,72513
+155,Fitbit,Fitbit,90496,4.0,Fitbit,3.9,357417
+156,NHL,NHL,15554,3.5,NHL,4.0,68935
+157,The Sims™ FreePlay,The Sims™ FreePlay,446880,4.5,The Sims™ FreePlay,4.3,931503
+158,OfferUp,OfferUp - Buy. Sell. Simple.,57348,4.5,OfferUp - Buy. Sell. Offer Up,4.6,591312
+159,Adobe Acrobat Reader,"Adobe Acrobat Reader: View, Create, & Convert PDFs",20069,4.0,Adobe Acrobat Reader,4.3,3014548
+160,Riptide GP,Riptide GP,3883,4.0,Riptide GP: Renegade,4.7,4328
+161,Riptide GP,Riptide GP: Renegade,412,4.5,Riptide GP: Renegade,4.7,4328
+162,Khan Academy,Khan Academy: you can learn anything,5459,4.0,Khan Academy,4.6,85375
+163,Bejeweled Blitz,Bejeweled Blitz,221002,4.0,Bejeweled Blitz,4.2,222664
+164,Poshmark,Poshmark: Buy & Sell Fashion,18035,4.5,Poshmark - Buy & Sell Fashion,4.3,46153
+165,YouNow,YouNow: Live Stream Video Chat,12079,3.5,YouNow: Live Stream Video Chat,4.1,309872
+166,Puffin Web Browser,Puffin Web Browser,11677,4.0,Puffin Web Browser,4.3,541661
+167,Kids A-Z,Kids A-Z,2887,3.5,Kids A-Z,4.2,26426
+168,Etsy,"Etsy: Shop Handmade, Vintage & Creative Goods",30434,4.5,Etsy: Handmade & Vintage Goods,4.3,95520
+169,Microsoft OneDrive,Microsoft OneDrive – File & photo cloud storage,12797,4.0,Microsoft OneDrive,4.4,1038303
+170,NCAA Sports,NCAA Sports,636,2.0,NCAA Sports,3.9,4272
+171,Minecraft,Minecraft: Pocket Edition,522012,4.5,Minecraft,4.5,2375336
+172,Minecraft,Minecraft: Skin Studio,4006,4.0,Minecraft,4.5,2375336
+173,Minecraft,Minecraft: Papercraft Studio,1044,4.5,Minecraft,4.5,2375336
+174,Minecraft,Minecraft: Story Mode,20621,4.0,Minecraft,4.5,2375336
+175,Bejeweled Classic,Bejeweled Classic,183259,4.5,Bejeweled Classic,4.4,203101
+176,Cytus,Cytus,7925,5.0,Cytus,4.7,541732
+177,Eventbrite,Eventbrite - Local Events & Fun Things To Do Near Me,2353,4.0,Eventbrite - Discover popular events & nearby fun,4.4,63773
+178,Chick-fil-A,Chick-fil-A,5665,3.5,Chick-fil-A,4.3,27931
+179,LEGO® Juniors Create & Cruise,LEGO® Juniors Create & Cruise,6152,4.0,LEGO® Juniors Create & Cruise,4.1,672089
+180,The CW,The CW,97368,4.5,The CW,4.4,288209
+181,Clear,"Clear – Tasks, Reminders & To-Do Lists",7521,4.0,Clear,3.1,24151
+182,Headspace,Headspace,12819,5.0,Headspace: Meditation & Mindfulness,4.6,77563
+183,Tom's Love Letters,Tom's Love Letters,27711,4.0,Tom's Love Letters,4.1,705805
+184,The Simpsons™,The Simpsons™: Tapped Out,274501,4.0,The Simpsons™: Tapped Out,4.3,636995
+185,Angry Birds Space HD,Angry Birds Space HD,39502,4.0,Angry Birds Space HD,4.5,43645
+186,Regal Cinemas,Regal Cinemas,13257,4.5,Regal Cinemas,4.3,32732
+187,Ski Safari,Ski Safari,45121,5.0,Ski Safari: Adventure Time,4.5,48754
+188,Ski Safari,Ski Safari: Adventure Time - Stunt Skiing Endless Runner with Finn and BMO,3699,4.5,Ski Safari: Adventure Time,4.5,48754
+189,USA TODAY,USA TODAY,61724,3.5,USA TODAY,4.1,49259
+190,Battlefield™ Companion,Battlefield™ Companion,689,2.5,Battlefield™ Companion,4.0,263907
+191,Freeform,Freeform – watch live TV & stream full episodes,18492,2.5,"Freeform – Stream Full Episodes, Movies, & Live TV",3.7,29229
+192,Whisper,"Whisper - Share, Express, Meet",39819,4.0,Whisper,4.1,205803
+193,Hay Day,Hay Day,567344,4.5,Hay Day,4.5,10053186
+194,Google Drive,Google Drive - free online storage,59255,4.5,Google Drive,4.4,2728941
+195,Bike Race,Bike Race - Top Motorcycle Racing Games,405007,4.5,Bike Race - Bike Blast Rush,4.4,83891
+196,Subway Surfers,Subway Surfers,706110,4.5,Subway Surfers,4.5,27711703
+197,Baldur's Gate,Baldur's Gate: Enhanced Edition,1454,4.0,Baldur's Gate: Enhanced Edition,4.5,20101
+198,LINE Camera,"LINE Camera - Photo editor, Animated Stamp, Filter",3978,4.5,LINE Camera - Photo editor,4.3,1517395
+199,SuperPhoto,SuperPhoto - Photo Effects & Filters,1952,4.5,SuperPhoto - Effects & Filters,4.1,43296
+200,FreePrints,FreePrints – Photos Delivered,26060,5.0,FreePrints – Free Photos Delivered,4.8,109500
+201,Credit Karma,"Credit Karma: Free Credit Scores, Reports & Alerts",101679,5.0,Credit Karma,4.7,706618
+202,Remind,"Remind: Fast, Efficient School Messaging",9796,4.5,Remind: School Communication,4.5,108613
+203,Fuel Rewards® program,Fuel Rewards® program,2249,4.5,Fuel Rewards® program,4.6,32433
+204,Tom Loves Angela,Tom Loves Angela,1151,4.0,Tom Loves Angela,4.1,1111915
+205,Flow Free,Flow Free,373857,4.5,Flow Free,4.3,1295293
+206,Flow Free,Flow Free: Hexes,2791,5.0,Flow Free,4.3,1295293
+207,Pixlr,"Pixlr - Photo Collages, Effects, Overlays, Filters",2099,4.0,Pixlr – Free Photo Editor,4.4,1163232
+208,Storm Shield,Storm Shield,2516,4.5,Storm Shield,3.5,2000
+209,Sworkit,Sworkit - Custom Workouts for Exercise & Fitness,16819,5.0,Sworkit: Workouts & Fitness Plans,4.6,109756
+210,Photo Editor by Aviary,Photo Editor by Aviary,39501,4.5,Photo Editor by Aviary,4.4,1490722
+211,Clash of Clans,Clash of Clans,2130805,4.5,Clash of Clans,4.6,44881447
+212,Zombie Tsunami,Zombie Tsunami,31311,4.5,Zombie Tsunami,4.4,4918776
+213,Wish,Wish - Shopping Made Fun,141960,4.5,Wish - Shopping Made Fun,4.5,6200739
+214,MY LITTLE PONY,MY LITTLE PONY: Magic Princess Quests,65201,4.5,MY LITTLE PONY: Magic Princess,4.4,1309728
+215,Bad Piggies,Bad Piggies,26259,4.5,Bad Piggies,4.3,1168959
+216,Dr. Panda Hospital,Dr. Panda Hospital,372,4.0,Dr. Panda Hospital,4.4,1091
+217,Hungry Shark Evolution,Hungry Shark Evolution,83784,4.5,Hungry Shark Evolution,4.5,6071542
+218,Google Chrome,Google Chrome – The Fast and Secure Web Browser,55750,3.5,Google Chrome: Fast & Secure,4.3,9642112
+219,UNO ™ & Friends,UNO ™ & Friends,68911,4.0,UNO ™ & Friends,4.1,1728557
+220,Big Fish Casino,Big Fish Casino – Best Vegas Slot Machines & Games,113959,4.5,Big Fish Casino – Play Slots & Vegas Games,4.4,382100
+221,We Heart It,"We Heart It - Fashion, wallpapers, quotes, tattoos",90414,5.0,We Heart It,4.5,637254
+222,NBC Sports,NBC Sports,47172,2.5,NBC Sports,3.1,78442
+223,YouTube,"YouTube - Watch Videos, Music, and Live Streams",278166,2.5,YouTube,4.3,25623548
+224,Bad Piggies HD,Bad Piggies HD,19018,4.5,Bad Piggies HD,4.4,764967
+225,Amazon Prime Video,Amazon Prime Video,43667,4.0,Amazon Prime Video,4.2,411683
+226,Quizlet,"Quizlet: Study Flashcards, Languages & Vocabulary",16683,4.5,Quizlet: Learn Languages & Vocab with Flashcards,4.6,211856
+227,Can Knockdown 3,Can Knockdown 3,1135,4.5,Can Knockdown 3,4.1,349503
+228,Photo Editor-,Photo Editor-,9095,4.5,Photo Editor-,4.3,68071
+229,Traffic Racer,Traffic Racer,22458,4.5,Traffic Racer,4.5,5387781
+230,Tinder,Tinder,143040,3.5,Tinder,4.0,2789775
+231,True Skate,True Skate,11065,4.0,True Skate,4.4,129409
+232,STARZ,STARZ,8971,3.5,STARZ,4.3,88185
+233,WWE,WWE,7553,4.0,WWE,4.5,736824
+234,The Room,The Room,143908,5.0,The Room: Old Sins,4.9,21119
+235,ClassDojo,ClassDojo,35440,4.5,ClassDojo,4.4,148536
+236,NASCAR MOBILE,NASCAR MOBILE,16385,4.0,NASCAR MOBILE,4.2,80900
+237,Candy Crush Saga,Candy Crush Saga,961794,4.5,Candy Crush Saga,4.4,22419455
+238,Draw a Stickman,Draw a Stickman: EPIC,413,4.5,Draw a Stickman: EPIC 2 Free,4.3,213340
+239,Draw a Stickman,Draw a Stickman: EPIC,413,4.5,Draw a Stickman: EPIC Free,4.2,210317
+240,Draw a Stickman,Draw a Stickman: EPIC HD,895,4.5,Draw a Stickman: EPIC 2 Free,4.3,213340
+241,Draw a Stickman,Draw a Stickman: EPIC HD,895,4.5,Draw a Stickman: EPIC Free,4.2,210317
+242,Draw a Stickman,Draw a Stickman: EPIC 2,1410,4.5,Draw a Stickman: EPIC 2 Free,4.3,213340
+243,Draw a Stickman,Draw a Stickman: EPIC 2,1410,4.5,Draw a Stickman: EPIC Free,4.2,210317
+244,Angry Birds Friends,Angry Birds Friends,23655,4.0,Angry Birds Friends,4.2,829753
+245,Real Racing 3,Real Racing 3,164483,4.5,Real Racing 3,4.5,354454
+246,Angry Birds Star Wars,Angry Birds Star Wars,34138,4.5,Angry Birds Star Wars,4.3,1218055
+247,Ibotta,"Ibotta: Cash Back App, Grocery Coupons & Shopping",44313,4.5,"Ibotta: Cash Back Savings, Rewards & Coupons App",4.5,315908
+248,T-Mobile,T-Mobile,19977,4.0,T-Mobile,4.3,482630
+249,Bloons TD 5,Bloons TD 5,42078,4.5,Bloons TD 5,4.6,190086
+250,Hill Climb Racing,Hill Climb Racing,108183,4.5,Hill Climb Racing,4.4,8921451
+251,Yoga Studio,Yoga Studio,28439,5.0,Yoga Studio: Mind & Body,4.3,5499
+252,"sugar, sugar","sugar, sugar",139,4.5,"sugar, sugar",4.2,1405
+253,Timehop,Timehop,49510,3.5,Timehop,4.1,161610
+254,Duolingo,"Duolingo - Learn Spanish, French and more",162701,4.5,Duolingo: Learn Languages Free,4.7,6297590
+255,LEGO Batman,LEGO Batman: DC Super Heroes,7717,4.0,LEGO Batman: DC Super Heroes,4.2,2557
+256,FOX NOW,FOX NOW - Watch Full Episodes and Stream Live TV,39391,4.5,FOX NOW - On Demand & Live TV,3.9,60841
+257,Gangstar Vegas,Gangstar Vegas,46705,4.5,Gangstar Vegas - mafia game,4.5,4830407
+258,365Scores,365Scores,9879,4.5,365Scores - Live Scores,4.6,666246
+259,Temple Run 2,Temple Run 2,295211,4.5,Temple Run 2,4.3,8116142
+260,Afterlight,Afterlight,14057,4.5,Afterlight,4.3,50893
+261,Pou,Pou,3783,4.5,Pou,4.3,10483141
+262,Injustice,Injustice: Gods Among Us,612532,4.5,Injustice: Gods Among Us,4.4,2440877
+263,Ingress,Ingress,2739,3.5,Ingress,4.3,391325
+264,Lumosity,Lumosity - Brain Training,96534,4.5,Lumosity: #1 Brain Games & Cognitive Training App,4.2,215301
+265,Checkout 51,Checkout 51: Grocery Coupons & Cash Back Savings,4878,4.0,Checkout 51: Grocery coupons,4.1,52896
+266,Retrica,"Retrica - Selfie Camera with Filter, Sticker & GIF",11021,4.5,Retrica,4.3,6120977
+267,Yahoo Mail,Yahoo Mail - Keeps You Organized!,113709,4.0,Yahoo Mail – Stay Organized,4.3,4188345
+268,Threema,Threema,196,4.5,Threema,4.5,51110
+269,MyScript Calculator,MyScript Calculator - Handwriting calculator,16555,4.5,MyScript Calculator,4.5,342336
+270,SmartNews,SmartNews - Trending News & Stories,4645,4.0,SmartNews: Breaking News Headlines,4.2,233305
+271,Sonic Dash,Sonic Dash,418033,4.5,Sonic Dash,4.5,3777822
+272,SeatGeek,"SeatGeek – Tickets to Sports, Concerts & Broadway",6088,4.5,"SeatGeek – Tickets to Sports, Concerts, Broadway",4.4,15558
+273,ABCmouse.com,ABCmouse.com - Early Learning Academy,18749,4.5,ABCmouse.com,4.3,50887
+274,Microsoft Word,Microsoft Word,47999,4.5,Microsoft Word,4.5,2078744
+275,Microsoft PowerPoint,Microsoft PowerPoint,10939,4.0,Microsoft PowerPoint,4.5,618796
+276,Microsoft Excel,Microsoft Excel,24430,4.5,Microsoft Excel,4.5,1079616
+277,PicsArt Photo Studio,PicsArt Photo Studio: Collage Maker & Pic Editor,29078,4.5,PicsArt Photo Studio: Collage Maker & Pic Editor,4.5,7590099
+278,The Walking Dead,The Walking Dead: Dead Yourself,2369,4.5,The Walking Dead: Road to Survival,4.2,522466
+279,The Walking Dead,The Walking Dead: Dead Yourself,2369,4.5,The Walking Dead: Our World,4.0,22435
+280,The Walking Dead,The Walking Dead: Road to Survival - Strategy Game,16116,4.5,The Walking Dead: Road to Survival,4.2,522466
+281,The Walking Dead,The Walking Dead: Road to Survival - Strategy Game,16116,4.5,The Walking Dead: Our World,4.0,22435
+282,The Walking Dead,The Walking Dead: No Man's Land,21016,4.5,The Walking Dead: Road to Survival,4.2,522466
+283,The Walking Dead,The Walking Dead: No Man's Land,21016,4.5,The Walking Dead: Our World,4.0,22435
+284,The Walking Dead,The Walking Dead: Michonne - A Telltale Miniseries,303,3.0,The Walking Dead: Road to Survival,4.2,522466
+285,The Walking Dead,The Walking Dead: Michonne - A Telltale Miniseries,303,3.0,The Walking Dead: Our World,4.0,22435
+286,The Walking Dead,The Walking Dead: A New Frontier,721,4.0,The Walking Dead: Road to Survival,4.2,522466
+287,The Walking Dead,The Walking Dead: A New Frontier,721,4.0,The Walking Dead: Our World,4.0,22435
+288,VSCO,VSCO,11174,3.5,VSCO,4.4,753115
+289,H&M,H&M,687,3.0,H&M,3.7,41917
+290,Nick,Nick,13237,3.5,Nick,4.2,123309
+291,Real Basketball,Real Basketball,198050,4.5,Real Basketball,4.5,1605267
+292,Plants vs. Zombies™ 2,Plants vs. Zombies™ 2,267394,4.5,Plants vs. Zombies™ 2,4.4,567632
+293,FanDuel,"FanDuel - Daily Fantasy Baseball, Golf & Sports",8014,4.5,FanDuel: Daily Fantasy Sports,4.6,29673
+294,Smash Hit,Smash Hit,126233,4.5,Smash Hit,4.5,4147718
+295,Facetune,Facetune,7643,4.5,Facetune - For Free,4.4,49553
+296,Farm Heroes Saga,Farm Heroes Saga,187579,4.5,Farm Heroes Saga,4.4,7615646
+297,Dr. Panda Supermarket,Dr. Panda Supermarket,342,4.0,Dr. Panda Supermarket,4.2,1357
+298,FINAL FANTASY V,FINAL FANTASY V,1808,4.5,FINAL FANTASY V,4.5,15924
+299,Asphalt 8,Asphalt 8: Airborne,188568,4.5,Asphalt 8: Airborne,4.5,8389714
+300,PlayKids,PlayKids - Educational Cartoons and Games for Kids,2196,4.0,PlayKids - Educational cartoons and games for kids,4.1,182173
+301,Eyes,Eyes - the horror game,567,4.5,Eyes - The Scary Horror Game Adventure,4.4,499483
+302,BeautyPlus,BeautyPlus - Selfie Camera for a Beautiful Image,7503,5.0,BeautyPlus - Easy Photo Editor & Selfie Camera,4.4,3156484
+303,Talking Ginger 2,Talking Ginger 2,8311,4.5,Talking Ginger 2,4.2,702975
+304,Yahoo Weather,Yahoo Weather,112603,4.5,Yahoo Weather,4.4,1312037
+305,Baldur's Gate II,Baldur's Gate II:EE,373,4.0,Baldur's Gate II,4.3,5442
+306,Casino X,"Casino X - Free Slot Machines, Poker, Blackjack",416,4.0,Casino X - Free Online Slots,4.5,30515
+307,Township,Township,80801,4.5,Township,4.6,4451317
+308,Pixel Gun 3D,Pixel Gun 3D,301182,4.5,Pixel Gun 3D: Survival shooter & Battle Royale,4.5,4487182
+309,Nextdoor,Nextdoor,14402,4.5,Nextdoor - Local neighborhood news & classifieds,4.3,51504
+310,Angry Birds Go!,Angry Birds Go!,75793,4.0,Angry Birds Go!,4.2,3846378
+311,Hangouts,Hangouts,36404,4.0,Hangouts,4.0,3419464
+312,Verizon Cloud,Verizon Cloud,6482,4.5,Verizon Cloud,4.3,185632
+313,Evil Apples,Evil Apples: A Filthy Adult Card & Party Game,53415,4.5,Evil Apples: A Dirty Card Game,4.3,137696
+314,AOL,"AOL: News, Email, Weather & Video",5233,4.0,"AOL - News, Mail & Video",4.1,62465
+315,Seven,Seven - 7 Minute Workout Training Challenge,6808,4.5,Seven - 7 Minute Workout Training Challenge,4.5,75571
+316,FollowMeter for Instagram,FollowMeter for Instagram - Followers Tracking,11976,4.5,FollowMeter for Instagram,4.4,90082
+317,Trivia Crack,Trivia Crack,393469,4.5,Trivia Crack,4.5,6427773
+318,Toca Builders,Toca Builders,5102,4.5,Toca Builders,4.2,3328
+319,Call of Duty®,Call of Duty®: Strike Team,9097,4.0,Call of Duty®: Heroes,4.4,1604146
+320,Call of Duty®,Call of Duty®: Heroes,179416,4.5,Call of Duty®: Heroes,4.4,1604146
+321,Episode,Episode - Choose Your Story,155903,4.5,Episode - Choose Your Story,4.3,1842381
+322,My Talking Tom,My Talking Tom,123859,4.5,My Talking Tom,4.5,14885236
+323,My Talking Pet,My Talking Pet,9035,4.5,My Talking Pet,4.6,6238
+324,Fishdom,Fishdom,39217,4.5,Fishdom,4.6,2158580
+325,Battleheart Legacy,Battleheart Legacy,3376,4.5,Battleheart Legacy,4.6,7420
+326,My Little Pony,My Little Pony - A Canterlot Wedding,273,3.5,My Little Pony: Story Creator,4.2,11002
+327,My Little Pony,My Little Pony - A Canterlot Wedding,273,3.5,My Little Pony: Harmony Quest,4.1,148405
+328,My Little Pony,My Little Pony: Harmony Quest,2265,4.0,My Little Pony: Story Creator,4.2,11002
+329,My Little Pony,My Little Pony: Harmony Quest,2265,4.0,My Little Pony: Harmony Quest,4.1,148405
+330,Boom Beach,Boom Beach,241929,4.5,Boom Beach,4.5,5591653
+331,WGT Golf Game by Topgolf,WGT Golf Game by Topgolf,53285,4.5,WGT Golf Game by Topgolf,4.3,148083
+332,Batman,Batman: Arkham Origins,27738,4.5,Batman: Gotham’s Most Wanted!,4.0,16190
+333,Batman,Batman: Arkham Underworld,9287,4.5,Batman: Gotham’s Most Wanted!,4.0,16190
+334,Batman,Batman - The Telltale Series,953,3.5,Batman: Gotham’s Most Wanted!,4.0,16190
+335,IQ Test,IQ Test - Pro Edition,529,4.5,IQ Test,4.2,1623
+336,Frozen Free Fall,Frozen Free Fall,50593,4.5,Frozen Free Fall,4.3,1574546
+337,Frozen Free Fall,Frozen Free Fall: Icy Shot,1133,4.5,Frozen Free Fall,4.3,1574546
+338,Castle Clash,Castle Clash: Brave Squads,47963,4.0,Castle Clash: Heroes of the Empire US,4.6,4578890
+339,Castle Clash,Castle Clash: Brave Squads,47963,4.0,Castle Clash: Epic Empire ES,4.6,584070
+340,Castle Clash,Castle Clash: Brave Squads,47963,4.0,Castle Clash: RPG War and Strategy FR,4.7,376223
+341,Quik,Quik – GoPro Video Editor to edit clips with music,28654,4.5,"Quik – Free Video Editor for photos, clips, music",4.7,696665
+342,Shadow Fight 2,Shadow Fight 2,99206,4.5,Shadow Fight 2,4.6,10981850
+343,Geometry Dash Lite,Geometry Dash Lite,370370,5.0,Geometry Dash Lite,4.5,6181640
+344,My Boo,My Boo - Virtual Pet with Mini Games for Kids,55783,4.5,My Boo - Your Virtual Pet Game,4.4,899748
+345,DraftKings,"DraftKings - Daily Fantasy Golf, Baseball, & More",20251,4.5,DraftKings - Daily Fantasy Sports,4.5,50017
+346,Cooking Fever,Cooking Fever,107797,4.5,Cooking Fever,4.5,3198176
+347,Swamp Attack,Swamp Attack,16968,4.5,Swamp Attack,4.4,2119235
+348,DoorDash,DoorDash - Food Delivery,25947,4.5,DoorDash - Food Delivery,4.5,104504
+349,Ebates,"Ebates: Cash Back, Coupons & Rebate Shopping App",12617,5.0,"Ebates: Cash Back, Coupons, Rewards & Savings",4.5,37253
+350,Flipp,"Flipp - Weekly Ads, Shopping List, and Coupons",6677,4.5,Flipp - Weekly Shopping,4.6,85782
+351,Disney Magic Kingdoms,Disney Magic Kingdoms,17213,4.0,Disney Magic Kingdoms: Build Your Own Magical Park,4.3,472584
+352,Hitman GO,Hitman GO,8673,4.5,Hitman GO,4.6,84114
+353,Xbox,Xbox,72187,4.5,Xbox,4.3,556659
+354,Farming Simulator 14,Farming Simulator 14,3615,4.0,Farming Simulator 14,4.5,530904
+355,VivaVideo,VivaVideo - Best Video Editor & Photo Movie Maker,10618,4.5,VivaVideo - Video Editor & Photo Movie,4.6,9879473
+356,Google Play Movies & TV,Google Play Movies & TV,1195,3.0,Google Play Movies & TV,3.7,906384
+357,Weather Live,"Weather Live - Weather Forecast, Radar and Alerts",28497,4.5,Weather Live,4.5,76593
+358,Cursive Writing Wizard,Cursive Writing Wizard - Kids Learn to Write Letters & Words,121,5.0,Cursive Writing Wizard - Handwriting,4.0,3745
+359,AJ Jump,AJ Jump: Animal Jam Kangaroos!,834,4.5,AJ Jump: Animal Jam Kangaroos!,4.4,2975
+360,FXNOW,"FXNOW - Full Episodes, Movies, and Stream Live TV",9496,3.0,"FXNOW: Movies, Shows & Live TV",3.9,31552
+361,Angry Birds Epic RPG,Angry Birds Epic RPG,84680,4.5,Angry Birds Epic RPG,4.5,2634605
+362,YouCam Perfect,YouCam Perfect - Photo & Selfie Editor,4293,4.5,YouCam Perfect - Selfie Photo Editor,4.5,1579343
+363,Hide N Seek ,Hide N Seek : Mini Multiplayer Game,10358,4.0,Hide N Seek : Mini Game,3.8,4719
+364,LEGO® Friends,LEGO® Friends,400,4.0,LEGO® Friends: Heartlake Rush,4.5,23671
+365,Dungeon Boss,Dungeon Boss,20980,4.5,Dungeon Boss – Strategy RPG,4.4,218881
+366,Jodel,Jodel,1193,4.5,Jodel - The Hyperlocal App,4.5,76480
+367,Card Wars,Card Wars - Adventure Time Card Game,13245,3.5,Card Wars - Adventure Time,4.3,129603
+368,War Robots,War Robots,97122,4.5,War Robots,4.6,3073251
+369,Peak,Peak - Brain Training,20322,4.5,Peak – Brain Games & Training,4.4,272321
+370,Crazy Freekick,Crazy Freekick,228,4.5,Crazy Freekick,3.9,47688
+371,Babbel,"Babbel – Learn Languages Spanish, French & more",1533,4.0,Babbel – Learn Spanish,4.4,54798
+372,Babbel,"Babbel – Learn Languages Spanish, French & more",1533,4.0,Babbel – Learn Languages,4.3,267787
+373,Just Dance Now,Just Dance Now,2535,3.5,Just Dance Now,4.2,794058
+374,Wishbone,Wishbone - Compare Anything,20649,4.5,Wishbone - Compare Anything,4.3,51569
+375,Wayfair,"Wayfair - Shop Furniture, Home Decor, Daily Sales",12578,5.0,Wayfair - Shop All Things Home,4.5,20247
+376,BET NOW,BET NOW - Watch Shows,967,2.5,BET NOW - Watch Shows,4.2,14807
+377,Google Docs,Google Docs,64259,4.5,Google Docs,4.3,815974
+378,Google Sheets,Google Sheets,24602,4.5,Google Sheets,4.3,496397
+379,Zombie Catchers,Zombie Catchers,16805,4.5,Zombie Catchers,4.7,989158
+380,Score! Hero,Score! Hero,85395,4.5,Score! Hero,4.6,5419676
+381,Star Wars™,Star Wars™: Commander,253448,4.5,Star Wars™: Force Arena,4.4,228130
+382,Star Wars™,Star Wars™: Commander,253448,4.5,Star Wars™: Galaxy of Heroes,4.5,1461698
+383,Star Wars™,Star Wars™: Galaxy of Heroes,122260,4.5,Star Wars™: Force Arena,4.4,228130
+384,Star Wars™,Star Wars™: Galaxy of Heroes,122260,4.5,Star Wars™: Galaxy of Heroes,4.5,1461698
+385,Candy Crush Soda Saga,Candy Crush Soda Saga,133394,4.5,Candy Crush Soda Saga,4.4,6199095
+386,Red Ball 4,Red Ball 4,9818,4.5,Red Ball 4,4.4,1432447
+387,Summoners War,Summoners War,137122,4.5,Summoners War,4.3,2045554
+388,Peggle Blast,Peggle Blast,11528,4.0,Peggle Blast,4.1,166251
+389,YouCam Makeup,YouCam Makeup: Magic Makeup Selfie Cam,14188,4.5,YouCam Makeup - Magic Selfie Makeovers,4.6,3337952
+390,SONIC Drive-In,SONIC Drive-In,1645,4.0,SONIC Drive-In,4.3,19373
+391,Best Fiends,Best Fiends,37584,4.5,Best Fiends - Free Puzzle Game,4.6,1480182
+392,Bitmoji,Bitmoji - Your Personal Emoji,37972,4.5,Bitmoji – Your Personal Emoji,4.6,2312084
+393,Toca Life,Toca Life: Town,3174,4.5,Toca Life: Hospital,4.7,3528
+394,Toca Life,Toca Life: Town,3174,4.5,Toca Life: City,4.7,31100
+395,Toca Life,Toca Life: City,3571,4.5,Toca Life: Hospital,4.7,3528
+396,Toca Life,Toca Life: City,3571,4.5,Toca Life: City,4.7,31100
+397,Toca Life,Toca Life: School,1744,4.5,Toca Life: Hospital,4.7,3528
+398,Toca Life,Toca Life: School,1744,4.5,Toca Life: City,4.7,31100
+399,Toca Life,Toca Life: Vacation,1730,4.5,Toca Life: Hospital,4.7,3528
+400,Toca Life,Toca Life: Vacation,1730,4.5,Toca Life: City,4.7,31100
+401,Toca Life,Toca Life: Stable,732,4.5,Toca Life: Hospital,4.7,3528
+402,Toca Life,Toca Life: Stable,732,4.5,Toca Life: City,4.7,31100
+403,Toca Life,Toca Life: Farm,643,4.5,Toca Life: Hospital,4.7,3528
+404,Toca Life,Toca Life: Farm,643,4.5,Toca Life: City,4.7,31100
+405,Elevate,Elevate - Brain Training and Games,58092,5.0,Elevate - Brain Training Games,4.5,248912
+406,Google Slides,Google Slides,9920,4.0,Google Slides,4.2,244567
+407,Angry Birds 2,Angry Birds 2,109104,4.0,Angry Birds 2,4.6,3881752
+408,Assassin's Creed Identity,Assassin's Creed Identity,3517,4.0,Assassin's Creed Identity,3.7,42529
+409,Candy Camera,Candy Camera,397,4.0,"Candy Camera - selfie, beauty camera, photo editor",4.4,3368705
+410,XCOM®,XCOM®: Enemy Within,2855,4.0,XCOM®: Enemy Within,4.2,13752
+411,My Emma ,My Emma :),8412,4.5,My Emma :),4.1,245839
+412,Need for Speed™ No Limits,Need for Speed™ No Limits,34998,4.5,Need for Speed™ No Limits,4.4,3344300
+413,AT&T Mobile Transfer,AT&T Mobile Transfer - Free,3024,4.5,AT&T Mobile Transfer,4.6,22775
+414,Dungeon Hunter 5,Dungeon Hunter 5 - Multiplayer RPG on iOS,22513,4.5,Dungeon Hunter 5 – Action RPG,4.2,720685
+415,Tubi TV,Tubi TV - Watch Free Movies & TV Shows,2368,4.0,Tubi TV - Free Movies & TV,4.3,296771
+416,Jurassic Life,Jurassic Life: Tyrannosaurus Rex Dinosaur Simulator,842,4.5,Jurassic Life: T Rex Simulator,4.2,1088
+417,Jurassic Life,Jurassic Life: Velociraptor Dinosaur Simulator,450,4.5,Jurassic Life: T Rex Simulator,4.2,1088
+418,Toy Blast,Toy Blast,75822,4.5,Toy Blast,4.7,1889582
+419,Earn to Die 2,Earn to Die 2,3072,4.5,Earn to Die 2,4.6,1327269
+420,Solitaire TriPeaks,Solitaire TriPeaks: Classic Card Game,32215,4.5,Solitaire TriPeaks,4.5,446434
+421,MARVEL Contest of Champions,MARVEL Contest of Champions,233599,4.5,MARVEL Contest of Champions,4.3,2468915
+422,Mercari,Mercari: Shopping Marketplace to Buy & Sell Stuff,24244,4.0,Mercari: The Selling App,4.4,101883
+423,Canva,Canva - Graphic Design & Photo Editing,9114,4.5,"Canva: Poster, banner, card maker & graphic design",4.7,174531
+424,Dr. Panda & Toto's Treehouse,Dr. Panda & Toto's Treehouse,455,4.5,Dr. Panda & Toto's Treehouse,4.4,3397
+425,Hopper,"Hopper - Predict, Watch & Book Flights",6944,4.5,Hopper - Watch & Book Flights,4.4,52028
+426,B612,"B612 - Trendy Filters, Selfiegenic Camera",2275,4.5,B612 - Beauty & Filter Camera,4.4,5276983
+427,Hitman Sniper,Hitman Sniper,8452,4.5,Hitman Sniper,4.6,408292
+428,Google Street View,Google Street View,1450,4.0,Google Street View,4.2,2129707
+429,aa,aa,158845,4.5,aa,4.2,886418
+430,Google Calendar,Google Calendar – Make the most of every day,7656,4.0,Google Calendar,4.2,858230
+431,My Talking Angela,My Talking Angela,54549,4.5,My Talking Angela,4.5,9876369
+432,Nick Jr.,Nick Jr.,1541,3.5,Nick Jr. - Shows & Games,4.2,8968
+433,Adobe Illustrator Draw,Adobe Illustrator Draw,3215,4.5,Adobe Illustrator Draw,4.4,65766
+434,DRAGON QUEST,DRAGON QUEST,419,4.5,DRAGON QUEST,4.2,9659
+435,Tiny Archers,Tiny Archers,568,4.0,Tiny Archers,4.5,80678
+436,Five Nights at Freddy's,Five Nights at Freddy's,27388,4.5,Five Nights at Freddy's,4.6,100805
+437,Five Nights at Freddy's,Five Nights at Freddy's,27388,4.5,Five Nights at Freddy's: SL,4.5,16162
+438,SimCity BuildIt,SimCity BuildIt,198338,4.5,SimCity BuildIt,4.5,4218587
+439,My Movies Pro,My Movies Pro - Movie & TV Collection Library,1309,4.5,My Movies Pro - Movie & TV Collection Library,4.6,6477
+440,Inside Out Thought Bubbles,Inside Out Thought Bubbles,21881,4.5,Inside Out Thought Bubbles,4.4,623398
+441,Dubsmash,Dubsmash,20243,4.5,Dubsmash,4.2,1971777
+442,Cartoon Wars 3,Cartoon Wars 3,979,4.0,Cartoon Wars 3,4.1,137674
+443,McDonald's,McDonald's,4050,2.0,McDonald's - McDonald's Japan,3.4,109784
+444,McDonald's,McDonald's,4050,2.0,McDonald's,3.6,145646
+445,Oddworld,Oddworld: Stranger's Wrath,713,4.5,Oddworld: New 'n' Tasty,4.6,1475
+446,Oddworld,Oddworld: Munch's Oddysee,200,4.5,Oddworld: New 'n' Tasty,4.6,1475
+447,Crossy Road,Crossy Road - Endless Arcade Hopper,669079,4.5,Crossy Road,4.5,4229977
+448,Google Classroom,Google Classroom,5942,4.0,Google Classroom,4.2,69498
+449,Dumb Ways to Die 2,Dumb Ways to Die 2: The Games,11295,4.0,Dumb Ways to Die 2: The Games,4.2,1671658
+450,PES CLUB MANAGER,PES CLUB MANAGER,3216,4.5,PES CLUB MANAGER,4.4,783025
+451,DC Legends,DC Legends,16460,4.5,DC Legends: Battle for Justice,4.5,355613
+452,Adventure Time Game Wizard,Adventure Time Game Wizard - Draw Your Own Adventure Time Games,848,4.0,Adventure Time Game Wizard,4.1,4107
+453,Mobile Strike,Mobile Strike,24935,3.5,Mobile Strike,3.9,903392
+454,YouTube Kids,YouTube Kids,28560,4.5,YouTube Kids,4.5,469851
+455,Bike Unchained,Bike Unchained,629,4.0,Bike Unchained,4.3,83545
+456,Five Nights at Freddy's 2,Five Nights at Freddy's 2,18107,4.5,Five Nights at Freddy's 2,4.6,73919
+457,Attack the Light,Attack the Light - Steven Universe Light RPG,10132,5.0,Attack the Light,4.7,19209
+458,Dude Perfect 2,Dude Perfect 2,28361,4.5,Dude Perfect 2,4.5,401648
+459,Toca Kitchen 2,Toca Kitchen 2,1858,4.5,Toca Kitchen 2,4.5,1013465
+460,MORTAL KOMBAT X,MORTAL KOMBAT X,114475,4.5,MORTAL KOMBAT X,4.4,3039889
+461,Gear.Club,Gear.Club - True Racing,2793,4.5,Gear.Club - True Racing,4.4,140658
+462,Deck Heroes,Deck Heroes: Legacy,494,4.0,Deck Heroes: Legacy,4.7,466495
+463,Alto's Adventure,Alto's Adventure,7824,4.5,Alto's Adventure,4.6,515240
+464,DRAGON BALL Z DOKKAN BATTLE,DRAGON BALL Z DOKKAN BATTLE,5362,4.0,DRAGON BALL Z DOKKAN BATTLE,4.1,650114
+465,Microsoft Outlook,Microsoft Outlook - email and calendar,32807,3.5,Microsoft Outlook,4.3,3249518
+466,MARVEL Future Fight,MARVEL Future Fight,20906,4.5,MARVEL Future Fight,4.6,2354042
+467,Storm Radar,Storm Radar,22792,4.5,Storm Radar: Tornado Tracker & Hurricane Alerts,4.6,89868
+468,Tsuro,Tsuro - The Game of the Path,539,4.5,Tsuro - The Game of the Path,4.7,2195
+469,Google Photos,Google Photos - unlimited photo and video storage,88742,5.0,Google Photos,4.5,10847682
+470,Dragon Hills,Dragon Hills,5508,4.5,Dragon Hills,4.5,354373
+471,OK K.O.! Lakewood Plaza Turbo,OK K.O.! Lakewood Plaza Turbo,430,4.5,OK K.O.! Lakewood Plaza Turbo,4.5,76608
+472,Vikings,Vikings: War of Clans,7969,4.5,Vikings: an Archer's Journey,4.5,10256
+473,Hello Kitty Lunchbox,Hello Kitty Lunchbox – Food Maker,694,4.5,Hello Kitty Lunchbox,4.2,51838
+474,Asphalt Xtreme,Asphalt Xtreme: Offroad Rally Racing,3960,4.0,Asphalt Xtreme: Rally Racing,4.5,567984
+475,HBO NOW,"HBO NOW: Stream original series, hit movies & more",7477,2.5,HBO NOW: Stream TV & Movies,3.9,61230
+476,Does not Commute,Does not Commute,5645,4.0,Does not Commute,4.0,154108
+477,Periscope,Periscope - Live Video Streaming Around the World,6062,3.5,Periscope - Live Video,4.0,479939
+478,MakeupPlus,"MakeupPlus - Natural, Professional Makeup Looks",3987,4.5,MakeupPlus - Your Own Virtual Makeup Artist,4.4,758780
+479,Blossom Blast Saga,Blossom Blast Saga - Fun Flower Match & Grow Game,29475,4.5,Blossom Blast Saga,4.5,1125438
+480,Five Nights at Freddy's 3,Five Nights at Freddy's 3,9876,4.5,Five Nights at Freddy's 3,4.7,27856
+481,Bejeweled Stars,Bejeweled Stars,7486,4.0,Bejeweled Stars: Free Match 3,4.5,85484
+482,Kill Shot Bravo,Kill Shot Bravo,22444,4.5,Kill Shot Bravo: Sniper FPS,4.4,579519
+483,Block Craft 3D,Block Craft 3D: Building Simulator Game For Free,78412,4.5,Block Craft 3D: Building Simulator Games For Free,4.5,944661
+484,Order & Chaos 2,Order & Chaos 2: 3D MMO RPG Online Game,6325,4.0,Order & Chaos 2: 3D MMO RPG,4.1,242722
+485,Discord,Discord - Chat for Gamers,9152,4.5,Discord - Chat for Gamers,4.5,305347
+486,letgo,letgo: Buy & Sell Second Hand Stuff,38424,4.5,"letgo: Buy & Sell Used Stuff, Cars & Real Estate",4.5,972256
+487,Fallout Shelter,Fallout Shelter,199396,4.5,Fallout Shelter,4.6,2721923
+488,Farming Simulator 16,Farming Simulator 16,2637,4.5,Farming Simulator 16,4.2,32812
+489,"Egg, Inc.","Egg, Inc.",79074,5.0,"Egg, Inc.",4.7,580160
+490,Free Fur All,Free Fur All – We Bare Bears Minigame Collection,1449,4.5,Free Fur All – We Bare Bears,4.2,256916
+491,U by BB&T,U by BB&T,790,2.0,U by BB&T,4.3,16600
+492,Agar.io,Agar.io,176514,4.5,Agar.io,4.2,3815614
+493,SHOWTIME,SHOWTIME,1214,2.5,SHOWTIME,4.2,12398
+494,Plants vs. Zombies™ Heroes,Plants vs. Zombies™ Heroes,16305,4.5,Plants vs. Zombies™ Heroes,4.4,379245
+495,"Please, Don't Touch Anything","Please, Don't Touch Anything",379,4.0,"Please, Don't Touch Anything",4.4,1771
+496,Animal Jam,Animal Jam - Play Wild!,26990,4.5,Animal Jam - Play Wild!,4.6,361734
+497,Army of Heroes,Army of Heroes,1235,4.5,Army of Heroes,4.5,85015
+498,Bullet Force,Bullet Force,9289,4.5,Bullet Force,4.5,634159
+499,Colorfy,Colorfy: Coloring Book for Adults,247809,4.5,Colorfy: Coloring Book for Adults - Free,4.5,787107
+500,Design Home,Design Home,23298,4.5,Design Home,4.4,539931
+501,Don't Starve,Don't Starve: Pocket Edition,3742,4.0,Don't Starve: Pocket Edition,4.4,17988
+502,Don't Starve,Don't Starve: Pocket Edition,3742,4.0,Don't Starve: Shipwrecked,4.1,1468
+503,Don't Starve,Don't Starve: Shipwrecked,495,3.5,Don't Starve: Pocket Edition,4.4,17988
+504,Don't Starve,Don't Starve: Shipwrecked,495,3.5,Don't Starve: Shipwrecked,4.1,1468
+505,ipsy,"ipsy - Makeup, subscription and beauty tips",17489,5.0,"ipsy: Makeup, Beauty, and Tips",4.9,49790
+506,V LIVE,V LIVE - Broadcasting App,937,3.5,V LIVE - Star Live App,4.4,397147
+507,Smashy Road,Smashy Road: Wanted,53162,4.5,Smashy Road: Arena,4.3,45558
+508,Smashy Road,Smashy Road: Arena,3207,4.5,Smashy Road: Arena,4.3,45558
+509,Deus Ex GO,Deus Ex GO - Puzzle Challenge,1385,4.5,Deus Ex GO,4.5,9699
+510,SNOW,"SNOW - Selfie, Motion sticker, Fun camera",1115,4.0,SNOW - AR Camera,4.3,1017237
+511,AMC,AMC,3105,2.0,AMC,3.2,20843
+512,Teeny Titans,Teeny Titans - Teen Titans Go! Figure Battles,2503,4.5,Teeny Titans - Teen Titans Go!,4.6,20463
+513,Rolling Sky,Rolling Sky,30670,4.5,Rolling Sky,4.5,1117212
+514,Talking Tom Bubble Shooter,Talking Tom Bubble Shooter,2659,4.5,Talking Tom Bubble Shooter,4.4,687136
+515,Shopkins World!,Shopkins World!,3047,4.0,Shopkins World!,4.3,169609
+516,Last Empire,Last Empire – War Z: Zombie Strategy Game,3323,4.0,Last Empire - War Z: Strategy,4.2,853495
+517,Boomerang from Instagram,Boomerang from Instagram,2373,3.5,Boomerang from Instagram,4.4,928720
+518,Vlogger Go Viral,Vlogger Go Viral - Clicker Game & Vlog Simulator,21977,5.0,Vlogger Go Viral - Tuber Game,4.8,1304467
+519,Geometry Dash Meltdown,Geometry Dash Meltdown,117470,4.5,Geometry Dash Meltdown,4.6,1591129
+520,Disney Crossy Road,Disney Crossy Road,38571,4.5,Disney Crossy Road,4.5,514088
+521,Hungry Shark World,Hungry Shark World,24057,4.5,Hungry Shark World,4.5,1243017
+522,Candy Crush Jelly Saga,Candy Crush Jelly Saga,32395,4.0,Candy Crush Jelly Saga,4.3,1300619
+523,Univision NOW,Univision NOW – Stream TV en Vivo y On Demand,329,2.0,Univision NOW - Live TV and On Demand,4.0,22997
+524,RISK,RISK: Global Domination,5217,4.0,RISK: Global Domination,4.0,68559
+525,Clash Royale,Clash Royale,266921,4.5,Clash Royale,4.6,23125280
+526,Philips Hue,Philips Hue,1999,1.5,Philips Hue,3.1,10006
+527,NBA LIVE Mobile Basketball,NBA LIVE Mobile Basketball,40619,4.0,NBA LIVE Mobile Basketball,4.4,1690802
+528,Firefox Focus,Firefox Focus: The privacy browser,477,4.0,Firefox Focus: The privacy browser,4.4,36981
+529,MadLipz,MadLipz - Make a Voice Over Parody!,153,4.5,MadLipz,4.6,171017
+530,Dunkin' Donuts,"Dunkin' Donuts - Get Offers, Coupons & Rewards",9068,4.0,Dunkin' Donuts,4.2,68270
+531,Tomb of the Mask,Tomb of the Mask,8054,4.5,Tomb of the Mask,4.1,55380
+532,Driving Zone,Driving Zone,298,4.0,Driving Zone,4.2,51791
+533,Fiesta by Tango,Fiesta by Tango - Chat & Meet New People,885,4.5,"Fiesta by Tango - Find, Meet and Make New Friends",4.3,112223
+534,MARVEL Avengers Academy,MARVEL Avengers Academy,17376,4.0,MARVEL Avengers Academy,4.2,304106
+535,Meditation Studio,Meditation Studio – Guided Meditations and Courses,2491,5.0,Meditation Studio,4.6,1026
+536,Fernanfloo,Fernanfloo,2886,4.5,Fernanfloo,4.8,526595
+537,Choices,Choices: Stories You Play,33698,4.5,Choices: Stories You Play,4.6,807155
+538,Lords Mobile,Lords Mobile,10263,4.5,Lords Mobile: Battle of the Empires - Strategy RPG,4.4,3057481
+539,Nasty Goats,Nasty Goats – a Game Shakers App,468,4.0,Nasty Goats,4.3,45579
+540,FINAL FANTASY BRAVE EXVIUS,FINAL FANTASY BRAVE EXVIUS,28187,4.5,FINAL FANTASY BRAVE EXVIUS,4.6,745684
+541,Soundtrack Attack,Soundtrack Attack - Steven Universe Rhythm Runner,1872,4.0,Soundtrack Attack,4.3,96045
+542,Google Trips,Google Trips – Travel planner,329,3.0,Google Trips - Travel Planner,4.1,26871
+543,Card Wars Kingdom,Card Wars Kingdom - Adventure Time,4283,3.5,Card Wars Kingdom,4.3,920571
+544,King of Avalon,King of Avalon: Dragon Warfare,3326,4.0,King of Avalon: Dragon Warfare,4.2,306652
+545,Super Slime Blitz,Super Slime Blitz – Gumball Endless Arcade Climber,668,4.5,Super Slime Blitz - Gumball,4.6,5395
+546,Talking Tom Gold Run,Talking Tom Gold Run: Fun & Endless Running Game,18733,4.5,Talking Tom Gold Run,4.6,2694969
+547,slither.io,slither.io,107817,3.5,slither.io,4.4,5231553
+548,PewDiePie's Tuber Simulator,PewDiePie's Tuber Simulator,90851,5.0,PewDiePie's Tuber Simulator,4.8,1499466
+549,BOO!,BOO! - Video chat camera with filters & stickers,1805,4.0,BOO! - Next Generation Messenger,3.5,20675
+550,Pokémon GO,Pokémon GO,257627,3.0,Pokémon GO,4.1,10421284
+551,Google Duo,Google Duo - simple video calling,1033,4.0,Google Duo - High Quality Video Calls,4.6,2083237
+552,MagiMobile,MagiMobile – Mighty Magiswords Collection App,553,3.5,MagiMobile – Mighty Magiswords,4.2,120035
+553,Dots & Co,Dots & Co: A New Puzzle Adventure,10693,4.5,Dots & Co: A Puzzle Adventure,4.5,81001
+554,PAC-MAN Pop,PAC-MAN Pop,1000,4.5,PAC-MAN Pop,4.3,24877
+555,Gardenscapes,Gardenscapes - New Acres,45227,4.0,Gardenscapes,4.6,4129665
+556,T-Mobile Tuesdays,T-Mobile Tuesdays,3213,2.5,T-Mobile Tuesdays,4.0,53144
+557,Geometry Dash World,Geometry Dash World,5114,4.5,Geometry Dash World,4.6,759838
+558,RollerCoaster Tycoon® Classic,RollerCoaster Tycoon® Classic,1794,4.0,RollerCoaster Tycoon® Classic,4.6,10795
+559,diep.io,diep.io,9397,4.0,diep.io,4.1,347883
+560,The Game of Life,The Game of Life,2298,4.5,The Game of Life,4.4,18652
+561,Endless Ducker,Endless Ducker,639,4.0,Endless Ducker,4.5,8193
+562,Bowmasters,Bowmasters - Top Multiplayer Bowman Archery Game,159323,4.5,Bowmasters,4.7,1535581
+563,Angry Birds Blast,Angry Birds Blast,24878,4.5,Angry Birds Blast,4.6,253115
+564,Thomas & Friends,Thomas & Friends: Magical Tracks - Kids Train Set,389,4.0,Thomas & Friends: Go Go Thomas,4.1,175625
+565,Thomas & Friends,Thomas & Friends: Magical Tracks - Kids Train Set,389,4.0,Thomas & Friends: Race On!,4.1,29319
+566,Thomas & Friends,Thomas & Friends: Magical Tracks - Kids Train Set,389,4.0,Thomas & Friends: Delivery,4.2,28737
+567,Uber Driver,Uber Driver,3289,3.0,Uber Driver,4.4,1254730
+568,Premier League,Premier League - Official App,791,3.5,Premier League - Official App,4.3,63782
+569,Whataburger,Whataburger,197,3.0,Whataburger,4.5,5093
+570,Hot Wheels,Hot Wheels: Race Off,3141,4.5,Hot Wheels: Race Off,4.5,520654
+571,Narcos,Narcos: Cartel Wars,4490,4.5,Narcos: Cartel Wars,4.7,244797
+572,Super Mario Run,Super Mario Run,87958,2.5,Super Mario Run,3.7,1221896
+573,My Teacher,My Teacher - School Classroom Play & Learn,234,4.0,My Teacher - Classroom Play,4.0,155276
+574,Hill Climb Racing 2,Hill Climb Racing 2,33854,4.5,Hill Climb Racing 2,4.6,2750645
+575,European War 5,European War 5: Empire,104,4.0,European War 5:Empire,3.8,9513
+576,Pineapple Pen,Pineapple Pen,6430,4.5,Pineapple Pen,4.3,157264
+577,Mobile Legends,Mobile Legends: Bang bang,11602,4.5,Mobile Legends: Bang Bang,4.4,8219586
+578,Super Jabber Jump,Super Jabber Jump,612,4.5,Super Jabber Jump,4.3,85882
